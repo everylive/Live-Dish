@@ -190,5 +190,5 @@ http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 #EXTINF:-1, tvg-id="zee-tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="colorsbengalihd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbengalihd.png" group-title="Entertainment",Colors Bengali HD
-https://rex-streaming.vercel.app/api/Bdx2/83764.m3u8|user-agent=@xfireflix
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",BD VS Ind
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
