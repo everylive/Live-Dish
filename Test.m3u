@@ -222,7 +222,21 @@ http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 #EXTINF:-1, tvg-id="zee-tv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Inidan",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha 
+https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha HD
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha HD
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha 
+https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha HD
+http://103.122.252.100:8080/STAR-JALSHA/tracks-v1a1/index.m3u8
+https://tvsky.noobmaster.xyz//054_Star_Jalsha_HD/tracks-v1a1/mono.m3u8
 
 
 
