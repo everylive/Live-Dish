@@ -8,7 +8,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1, tvg-id="", tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288", group-title="Bangladesh",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1, tvg-id="", tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261", group-title="Bangladesh",Channel i
-http://103.122.252.100:8080/CHANNEL-I/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1, tvg-id="6", tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4", group-title="Bangladesh",Ekushey Television (ETV)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/MymvXsgj/NTV.jpg", group-title="Bangladesh", NTV
@@ -179,4 +179,5 @@ https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",BD VS Ind
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+
 
