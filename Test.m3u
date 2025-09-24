@@ -111,10 +111,14 @@ https://aynapubluc.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3
 https://aynapubluc.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
 
 #EXTINF:-1, tvg-id="28", tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="Bangladesh",Nexus Television
-https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1750361666&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=90ad2c025308b29cd830c98175631b17
+
+
 #EXTINF:-1, tvg-id="21", tvg-logo="https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868", group-title="Bangladesh",Ekhon TV
-https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1750361579&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=abda8e29838acc02b17a58dd4c5c920d
+https://tvsen6.aynaott.com/ekhontv/index.m3u8
+
 #EXTINF:-1, tvg-id="", tvg-logo="", group-title="Bangladesh",Gaan Bangla
+https://app.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+
 #EXTINF:-1, tvg-id="23", tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc", group-title="Bangladesh",Duronto TV
 http://103.122.252.100:8080/DURONTO-TV/index.m3u8
 #EXTINF:-1, tvg-id="", tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288", group-title="Bangladesh",ATN BANGLA HD
