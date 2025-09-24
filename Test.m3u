@@ -54,11 +54,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
 
 #EXTINF:-1, tvg-id="11", tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c", group-title="Bangladesh",GTV
-http://103.122.252.100:8080/GAZI-TV/index.m3u8
-http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
-http://103.122.252.100:8080/GAZI-TV/tracks-v1a1/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/mono.m3u8
-https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8
+
 
 #EXTINF:-1, tvg-id="16", tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024", group-title="Bangladesh",Asian TV
 https://aynapubluc.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
@@ -103,13 +99,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1, tvg-id="25", tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3", group-title="Bangladesh",Ekattor TV
-http://103.122.252.100:8080/EKATTOR-TV/index.m3u8
-#EXTINF:-1, tvg-id="27", tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122", group-title="Bangladesh",Jamuna Television
-http://103.122.252.100:8080/JAMUNA-TV/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1, tvg-id="27", tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122", group-title="Bangladesh",Jamuna TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
 #EXTINF:-1, tvg-id="22", tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d", group-title="Bangladesh",News24
-https://tvsen6.aynaott.com/news24/index.m3u8?e=1750361551&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7b0e029aea4fb284d0d25aa845cfaaf7
+https://aynapubluc.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+
 #EXTINF:-1, tvg-id="20", tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe", group-title="Bangladesh",DBC News
-https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1750361661&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=90d82a347541d2e2d8e67c494d4e66c3
+https://aynapubluc.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
+
 #EXTINF:-1, tvg-id="28", tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="Bangladesh",Nexus Television
 https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1750361666&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=90ad2c025308b29cd830c98175631b17
 #EXTINF:-1, tvg-id="21", tvg-logo="https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868", group-title="Bangladesh",Ekhon TV
@@ -221,6 +221,7 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 #EXTINF:-1, tvg-id="zee-tv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Inidan",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
+
 
 
 
