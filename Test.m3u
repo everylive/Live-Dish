@@ -4,17 +4,6 @@
 EXTINF:-1 group-title="LIVE Sports" tvg-logo="", BD vs PAK Live
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?|drmScheme=clearkey&drmLicense=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg", T Sports Live 01
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (1)
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
-https://tvsen5.aynaott.com/tsports/index.m3u8
-
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3)
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
 
@@ -458,6 +447,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
