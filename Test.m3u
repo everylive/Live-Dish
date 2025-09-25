@@ -212,14 +212,6 @@ https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, tvg-id="", tvg-logo="", group-title="Sports",ESPN 3
 https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-3/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, tvg-id="sony-aath", tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png", group-title="Inidan",Sony Aath
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-
-#EXTINF:-1, tvg-id="sony-hd", tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png", group-title="Inidan",SET HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-
-
-
 #EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Inidan",Star Plus HD
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 
@@ -297,6 +289,41 @@ http://103.122.252.100:8080/ZEE-BANGLA/index.m3u8
 
 #EXTINF:-1, tvg-id="Zeebanglacinema", tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png", group-title="Indian Bangla",Zee Bangla Cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+
+#EXTINF:-1, tvg-id="sony-aath", tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg", group-title="Indian Bangla",Sony Aath
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Aur Life HD
+http://124.109.47.101/hls/stream1.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",92 News
+
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",ARY digital 
+
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Geo Kahani
+
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Hum TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Sidh TV
+https://stream717.duckdns.org/hls/stream1.m3u8
+
+#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+
+
 
 
 
