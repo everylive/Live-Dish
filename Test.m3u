@@ -1,15 +1,15 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg", T Sports Live 01
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg", T Sports Live 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (1)
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (1)
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
 https://tvsen5.aynaott.com/tsports/index.m3u8
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3)
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3)
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
@@ -222,34 +222,46 @@ https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Inidan",Star Plus HD
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+
 #EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Inidan",STAR PLUS
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/276912.m3u8
+
 #EXTINF:-1, tvg-id="starbharathd", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png", group-title="Inidan",Star Bharat 
 https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+
 #EXTINF:-1, tvg-id="103", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png", group-title="Inidan",STAR UTSAV HD
 https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
+
 #EXTINF:-1, tvg-id="starutsavmovies", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png", group-title="Inidan",Star Utsav Movies
 https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1, tvg-id="stargoldthrills", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png", group-title="Inidan",Star Gold Thrills
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+
 #EXTINF:-1, tvg-id="29", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png", group-title="Inidan",STAR GOLD
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
+
 #EXTINF:-1, tvg-id="29", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png", group-title="Inidan",STAR GOLD HD
 http://103.122.252.100:8080/STAR-GOLD/index.m3u8
+
 #EXTINF:-1, tvg-id="stargoldselecthd", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png", group-title="Inidan",Star Gold Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+
 #EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png", group-title="Inidan",Star Gold Romance
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+
 #EXTINF:-1, tvg-id="3", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png", group-title="Inidan", STAR GOLD 2 HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+
 #EXTINF:-1, tvg-id="", tvg-logo="", group-title="Inidan",STAR  WORLD HD
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
+
 #EXTINF:-1, tvg-id="", tvg-logo="", group-title="Inidan", STAR MOVIES
 https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
-#EXTINF:-1, tvg-id="Zeebanglacinema", tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png", group-title="Inidan",Zee Bangla Cinema
-http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+
 #EXTINF:-1, tvg-id="0-9-zeetv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Inidan",Zee TV 
 http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
+
 #EXTINF:-1, tvg-id="zee-tv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Inidan",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
@@ -282,6 +294,10 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Inidan Bangla",ZEE BANGLA HD
 http://103.122.252.100:8080/ZEE-BANGLA/index.m3u8
+
+#EXTINF:-1, tvg-id="Zeebanglacinema", tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png", group-title="Inidan Bangla",Zee Bangla Cinema
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+
 
 
 
