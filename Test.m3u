@@ -2,8 +2,7 @@
 #EXTM3U
 
 EXTINF:-1 group-title="LIVE Sports" tvg-logo="", BD vs PAK Live
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?|drmScheme=clearkey&drmLicense=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
-
+https://aynapubluc.vercel.app/api/stream/abfabaee-3898-4279-8645-3da5b0232867.m3u8
 
 
 
@@ -447,6 +446,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
