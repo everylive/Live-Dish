@@ -131,11 +131,11 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1, tvg-id="", tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg", group-title="Sports", T Sports Live 02
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg", group-title="Sports", T Sports Live 03
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
 https://tvsen5.aynaott.com/tsports/index.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg", group-title="Sports", T Sports Live 04
-http://103.122.252.100:8080/T-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3)
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://pnghdpro.com/sony-liv-logo", group-title="Sports",SONY LIV 1
 https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
@@ -144,7 +144,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/sonyten1hd/master.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://pnghdpro.com/sony-liv-logo", group-title="Sports",SONY LIV 3
-https://live.dinesh29.com.np/stream/jiotvplus/sonyten2hd/master.m3u8
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://pnghdpro.com/sony-liv-logo", group-title="Sports",SONY LIV 4
 https://live.dinesh29.com.np/stream/jiotvplus/sonyten3hdhindi/master.m3u8
@@ -293,35 +293,65 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1, tvg-id="sony-aath", tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg", group-title="Indian Bangla",Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Aur Life HD
-http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aaj Tak HD (IN)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",92 News
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aljazeera
+https://tvsky.noobmaster.xyz//082_Al_Jazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aljazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",ARY digital 
-
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Discover Pakistan
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Dunya News
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
-
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Geo Kahani
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",BBC World News
 
 
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Hum TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Breaking News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Lahore News
-https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",CGTN
+https://0472.org/hls/cgtn.m3u8
 
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Sidh TV
-https://stream717.duckdns.org/hls/stream1.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNA News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Such TV
-https://video.primexsports.com/suchnews/live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNN (US)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kcMUGOE.jpg",Global News (US)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kcMUGOE.jpg",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ldXaLJK.png",NBC 7 San Diego
+https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max
+https://ddy6new.newkso.ru/ddy6/premium613/mono.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",Tele Zuri
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",TV9 India
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Yahoo News
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+
+
+
 
 
 
