@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="", BD vs PAK Live
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", BD vs PAK Live
 https://aynapubluc.vercel.app/api/stream/abfabaee-3898-4279-8645-3da5b0232867.m3u8
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="", BD vs PAK Live 2
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", BD vs PAK Live 2
 https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="", BD vs PAK Live 3
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", BD vs PAK Live 3
 http://nayatv.ydns.eu/xfireflix/flixfire/11681
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="", BD vs PAK Live Hindi
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", BD vs PAK Live Hindi
 https://live-ak.vimeocdn.com/exp=1758821490~acl=%2Fe77dc29e-74d6-4eec-b8b2-69531ca3cbf0_fmp4%2F%2A~hmac=2ca6c8459580332bfbdee0af08ef994a3884ec01491f332b8a07033893270606/e77dc29e-74d6-4eec-b8b2-69531ca3cbf0_fmp4/avc/hls.m3u8
 
 
