@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 1
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/13365.ts
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 2
 https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1758904246&token=b5ab6dc5cae4bc836c6340e438211911&u=7a511720-17fc-44bc-a9a7-9222de71898c
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 3
-https://dai.google.com/ssai/event/QONEGTHmTZm-7xb7l4by3Q/master.m3u8
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 4
 https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
