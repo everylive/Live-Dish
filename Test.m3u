@@ -10,7 +10,7 @@ https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1758904246&tok
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 4
-https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
+https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1758904246&token=b5ab6dc5cae4bc836c6340e438211911&u=7a511720-17fc-44bc-a9a7-9222de71898c
 
 #EXTINF:-1, tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", group-title="Bangladesh",BTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
