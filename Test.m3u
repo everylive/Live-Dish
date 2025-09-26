@@ -1,17 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 1
-https://github.com/everylive/My-TV-Store/raw/refs/heads/main/Playlist1.mp4
-https://bcovlive-a.akamaihd.net/f5fec2a70fa64f86a1bc3ee42e94e355/ap-southeast-2/5833133821001/playlist.m3u8
+https://a168aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/mfijr7ffoy/out/v1/5316f71a2aa9469ca2552a978baf3342/cenc.mpd|drmScheme=clearkey&drmLicense=7addb3cfe1fc602a828d47751e30d407:66da726af11aa8742df1f76e31c8d007
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 2
-https://bcovlive-a.akamaihd.net/f5fec2a70fa64f86a1bc3ee42e94e355/ap-southeast-2/5833133821001/playlist.m3u8
+https://livecf.fancode.com/136748_english_hls_fc072b8ba818615adfreeta-di_h264/index.m3u8?|Referer=https://fancode.com/&Origin=https://fancode.com/
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 3
-
+https://dai.google.com/ssai/event/QONEGTHmTZm-7xb7l4by3Q/master.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 4
-
+https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
 
 #EXTINF:-1, tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", group-title="Bangladesh",BTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
