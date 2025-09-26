@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 1
-https://a168aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/mfijr7ffoy/out/v1/5316f71a2aa9469ca2552a978baf3342/cenc.mpd|drmScheme=clearkey&drmLicense=7addb3cfe1fc602a828d47751e30d407:66da726af11aa8742df1f76e31c8d007
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 2
 https://livecf.fancode.com/136748_english_hls_fc072b8ba818615adfreeta-di_h264/index.m3u8?|Referer=https://fancode.com/&Origin=https://fancode.com/
