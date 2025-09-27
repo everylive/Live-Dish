@@ -1,17 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 1
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
 
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 2
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 3
-
-
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 4
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
 
 
-#EXTINF:-1, tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", group-title="Bangladesh",BTV 
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 4
+
+
+#EXTINF:-1, tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg", group-title="Bangladesh",BTV News
@@ -50,8 +50,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1, tvg-id="14", tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef", group-title="Bangladesh",Channel 9
 https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
 
-#EXTINF:-1, tvg-id="11", tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c", group-title="Bangladesh",GTV
-
+#EXTINF:-1, tvg-id="11", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",Movie Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="16", tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024", group-title="Bangladesh",Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -250,17 +250,17 @@ https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha HD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha 
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png" group-title="Indian Bangla",Star Jalsha 
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png", group-title="Indian Bangla",Star Jalsha 1
-https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Bangla",Star Jalsha Movie
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png", group-title="Indian Bangla",Star Jalsha 2
-https://tvsky.noobmaster.xyz//054_Star_Jalsha_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Bangla",Star Jalsha 2
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png", group-title="Indian Bangla",Star Jalsha 3
-http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Bangla",Star Jalsha 3
+
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE BANGLA
 https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1758959110&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=ce4e198833dff1adab75b8c8e23f87ef
@@ -285,7 +285,7 @@ https://tvsky.noobmaster.xyz//082_Al_Jazeera/tracks-v1a1/mono.m3u8
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",BBC World News
-
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_1200k.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Breaking News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
@@ -447,7 +447,17 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",Modina Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
 
+#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",IQRA Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",9xM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 
 
 
