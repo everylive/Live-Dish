@@ -1,16 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 1
-http://nayatv.ydns.eu:80/xfireflix/flixfire/13365.ts
+
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 2
-https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1758904246&token=b5ab6dc5cae4bc836c6340e438211911&u=7a511720-17fc-44bc-a9a7-9222de71898c
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 3
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", Live 4
-https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1758904246&token=b5ab6dc5cae4bc836c6340e438211911&u=7a511720-17fc-44bc-a9a7-9222de71898c
+
 
 #EXTINF:-1, tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/v6jDcpGt/IMG-20250925-WA0003.jpg", group-title="Bangladesh",BTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
@@ -440,13 +439,14 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Descovery Bangla
-http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277415&extension=ts&play_token=nrDDIKbzCX
+https://tvsen6.aynascope.net/discovery_hd_bangla/index.m3u8?e=1758961259&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=86d056777a3b5e085af31f8c6c98f082
 
 #EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Advancer Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
 
 
 
