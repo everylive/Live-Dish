@@ -263,9 +263,9 @@ https://tvsky.noobmaster.xyz//054_Star_Jalsha_HD/tracks-v1a1/mono.m3u8
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE BANGLA
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
+https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1758959110&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=ce4e198833dff1adab75b8c8e23f87ef
 
-#EXTINF:-1, tvg-id="zeebangla.in", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE BANGLA HD
+#EXTINF:-1, tvg-id="zeebangla.in", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",Sanda
 https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg",BAN | ZEE BANGLA CINEMA
