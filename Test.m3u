@@ -438,11 +438,14 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Descovery Bangla
+#EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Descovery
 https://tvsen6.aynascope.net/discovery_hd_bangla/index.m3u8?e=1758971109&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=57cbb4e9459f6b378488f8a18c2a62e1
 
-#EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Advancer Earth
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Descovery World
+http://saga10.pro:80/345715/562156/1262980
+
+#EXTINF:-1 group-title="Educational" tvg-id="DISCOVERY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Advancer Earth
+https://github.com/laurianokr-boop/lauiptv.m3u/blob/main/lauiptv.m3u
 
 #EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -458,6 +461,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
