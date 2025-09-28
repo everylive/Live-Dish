@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
-https://github.com/everylive/My-TV-Store/blob/main/Playlist1.mp4
+https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759100976~acl=/*~id=62017427232483287120995742620156~hmac=049d2959d4db610f08237e9b8278f2b671a0f7074d8ee4a10453cbb2be264886
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
