@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
-https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759100976~acl=/*~id=62017427232483287120995742620156~hmac=049d2959d4db610f08237e9b8278f2b671a0f7074d8ee4a10453cbb2be264886
+https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
@@ -10,7 +10,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 https://starsportshindiii.pages.dev/720p.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 4
-
+https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759100976~acl=/*~id=62017427232483287120995742620156~hmac=049d2959d4db610f08237e9b8278f2b671a0f7074d8ee4a10453cbb2be264886
 
 #EXTINF:-1, tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
@@ -468,6 +468,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
