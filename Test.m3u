@@ -42,14 +42,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1, tvg-id="28", tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d", group-title="Bangladesh",Mohona TV
-https://aynapubluc.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
+https://bozztv.com/rongo/rongo-MohonaTV/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="2", tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg", group-title="Bangladesh",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 #EXTINF:-1, tvg-id="14", tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef", group-title="Bangladesh",Channel 9
-https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
-
+#https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="11", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",Movie Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
 
@@ -60,7 +60,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://aynapubluc.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
 
 #EXTINF:-1, tvg-id="30", tvg-logo="https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c", group-title="Bangladesh",Bijoy TV
-https://aynapubluc.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://s3.aynaott.com/storage/effb608ccd66e46f6b263cfdbc541f09", group-title="Bangladesh",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -458,6 +458,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
