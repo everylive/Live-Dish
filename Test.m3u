@@ -7,7 +7,7 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jkJk3D5lKwX-ul
 https://d12.epicquesthero.com:1686/hls/willowusa.m3u8?md5=grvK_xgp5s2KxmPoTswxmg&expires=1759074502
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
-https://d11.epicquesthero.com:1686/hls/willowextra.m3u8?md5=R8WFPD3kjWUX4pVlaaWbkw&expires=1759074563
+http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 4
 https://d15.epicquesthero.com:1686/hls/ten1hd.m3u8?md5=b7DBBv5k1YWXVoh1C3M0bA&expires=1759074627
@@ -468,6 +468,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
