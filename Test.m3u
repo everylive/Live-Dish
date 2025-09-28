@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
-
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
 
@@ -74,8 +74,8 @@ https://cdn-4.pishow.tv/live/1499/master.m3u8
 #EXTINF:-1, tvg-id="33", tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f", group-title="Bangladesh",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="31", tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b", group-title="Bangladesh",Global TV
-https://aynapubluc.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
+#EXTINF:-1, tvg-id="31", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",GTV
+http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="News & Drama", tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg", group-title="Bangladesh",Channel S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
@@ -117,7 +117,7 @@ https://tvsen6.aynaott.com/ekhontv/index.m3u8
 https://app.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="23", tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc", group-title="Bangladesh",Duronto TV
-https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1758959667&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=8ddb488d01a1f729d6ed2b47373a0922
+http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, tvg-id="", tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288", group-title="Bangladesh",ATN BANGLA HD
@@ -135,7 +135,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/sonyten1hd/master.m3u8
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://pnghdpro.com/sony-liv-logo", group-title="Sports",SONY LIV 4
-https://live.dinesh29.com.np/stream/jiotvplus/sonyten3hdhindi/master.m3u8
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="27", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png", group-title="Sports",Star Sports-1 Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
@@ -458,6 +458,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
