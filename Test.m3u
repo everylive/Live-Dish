@@ -72,7 +72,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png", group-title="Bangladesh",Nagorik TV
-
+https://bcdnw.hakunaymatata.com/resource/b627653362e5fff4ccdb0e47d2c95c6e.mp4?sign=d0410012633fe1a326d252b824e745e3&t=1759220826
 
 #EXTINF:-1, tvg-id="33", tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f", group-title="Bangladesh",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
@@ -119,7 +119,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1, tvg-id="21", tvg-logo="https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868", group-title="Bangladesh",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh"Music Bangla
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh", Music Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="23", tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc", group-title="Bangladesh",Duronto TV
