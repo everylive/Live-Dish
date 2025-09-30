@@ -44,7 +44,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1, tvg-id="28", tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d", group-title="Bangladesh",Mohona TV
-https://bozztv.com/rongo/rongo-MohonaTV/tracks-v2a1/mono.m3u8
+
 
 #EXTINF:-1, tvg-id="2", tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg", group-title="Bangladesh",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
@@ -52,6 +52,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1, tvg-id="14", tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef", group-title="Bangladesh",Channel 9
 #https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, tvg-id="11", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",Movie Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
 
