@@ -60,10 +60,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="19", tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821", group-title="Bangladesh",SA TV
-https://aynapubluc.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
+
 
 #EXTINF:-1, tvg-id="30", tvg-logo="https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c", group-title="Bangladesh",Bijoy TV
-https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://s3.aynaott.com/storage/effb608ccd66e46f6b263cfdbc541f09", group-title="Bangladesh",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -87,7 +87,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="12", tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8", group-title="Bangladesh",Desh TV
-https://aynapubluc.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="17", tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a", group-title="Bangladesh",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -108,7 +108,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1, tvg-id="22", tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d", group-title="Bangladesh",News24
-https://aynapubluc.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+
 
 #EXTINF:-1, tvg-id="20", tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe", group-title="Bangladesh",DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
@@ -119,8 +119,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1, tvg-id="21", tvg-logo="https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868", group-title="Bangladesh",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="", group-title="Bangladesh",Gaan Bangla
-https://app.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh"Music Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="23", tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc", group-title="Bangladesh",Duronto TV
 http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
