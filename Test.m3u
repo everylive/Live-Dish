@@ -8,8 +8,8 @@ https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/inde
 https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1759588350~acl=%2f*~data=hdntl~hmac=dfadfbce813075a42b3e1de82d042873007ec33d358112277759951e5c3b19c7/level_0.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
-https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-
+#https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/hdntl=exp=1759605337~acl=%2f*~id=59040752110743603116827551462286~data=hdntl,2094589,DAI05ME-V3,none~hmac=ed230db41fe7c909ff4e45edb94c34efdd54e986212be221c33b4f71815c3b1f/master_4500.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 4
 http://103.175.242.10:8080/tsports1/index.m3u8
