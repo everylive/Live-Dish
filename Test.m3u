@@ -204,49 +204,52 @@ https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, tvg-id="", tvg-logo="", group-title="Sports",ESPN 3
 https://tiger-hub.vercel.app/SPORT-ZONE/ESPN-3/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Inidan",Star Plus HD
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Hindi",Sony MAX HD
+http://51.15.7.9:3141/max/index.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Indian Hindi",Star Plus HD
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Inidan",STAR PLUS
+#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Indian Hindi",STAR PLUS
 http://front-main.eagle-4k.me:80/live/imadfr_551967/4fWxfRqg/276912.m3u8
 
-#EXTINF:-1, tvg-id="starbharathd", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png", group-title="Inidan",Star Bharat 
+#EXTINF:-1, tvg-id="starbharathd", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png", group-title="Indian Hindi",Star Bharat 
 https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 
-#EXTINF:-1, tvg-id="103", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png", group-title="Inidan",STAR UTSAV HD
+#EXTINF:-1, tvg-id="103", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png", group-title="Indian Hindi",STAR UTSAV HD
 https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
 
-#EXTINF:-1, tvg-id="starutsavmovies", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png", group-title="Inidan",Star Utsav Movies
+#EXTINF:-1, tvg-id="starutsavmovies", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png", group-title="Indian Hindi",Star Utsav Movies
 https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, tvg-id="stargoldthrills", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png", group-title="Inidan",Star Gold Thrills
+#EXTINF:-1, tvg-id="stargoldthrills", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png", group-title="Indian Hindi",Star Gold Thrills
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
-#EXTINF:-1, tvg-id="29", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png", group-title="Inidan",STAR GOLD
+#EXTINF:-1, tvg-id="29", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png", group-title="Indian Hindi",STAR GOLD
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
 
-#EXTINF:-1, tvg-id="29", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png", group-title="Inidan",STAR GOLD HD
+#EXTINF:-1, tvg-id="29", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png", group-title="Indian Hindi",STAR GOLD HD
 http://103.122.252.100:8080/STAR-GOLD/index.m3u8
 
-#EXTINF:-1, tvg-id="stargoldselecthd", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png", group-title="Inidan",Star Gold Select HD
+#EXTINF:-1, tvg-id="stargoldselecthd", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png", group-title="Indian Hindi",Star Gold Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png", group-title="Inidan",Star Gold Romance
+#EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png", group-title="Indian Hindi",Star Gold Romance
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 
-#EXTINF:-1, tvg-id="3", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png", group-title="Inidan", STAR GOLD 2 HD
+#EXTINF:-1, tvg-id="3", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png", group-title="Indian Hindi", STAR GOLD 2 HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 
-#EXTINF:-1, tvg-id="", tvg-logo="", group-title="Inidan",STAR  WORLD HD
+#EXTINF:-1, tvg-id="", tvg-logo="", group-title="Indian Hindi",STAR  WORLD HD
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
 
-#EXTINF:-1, tvg-id="", tvg-logo="", group-title="Inidan", STAR MOVIES
+#EXTINF:-1, tvg-id="", tvg-logo="", group-title="Indian Hindi", STAR MOVIES
 https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
 
-#EXTINF:-1, tvg-id="0-9-zeetv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Inidan",Zee TV 
+#EXTINF:-1, tvg-id="0-9-zeetv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Indian Hindi",Zee TV 
 http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 
-#EXTINF:-1, tvg-id="zee-tv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Inidan",Zee TV HD
+#EXTINF:-1, tvg-id="zee-tv", tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png", group-title="Indian Hindi",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
 
@@ -331,12 +334,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",TV9 India
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Yahoo News
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-
-
-
 
 
 
@@ -445,8 +442,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Descovery 2
-
+#EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Descovery HD
+http://78.108.251.7/Discovery_HD/index.m3u8
 
 #EXTINF:-1 group-title="Educational" tvg-id="DISCOVERY.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Advancer Earth
 
@@ -471,6 +468,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
