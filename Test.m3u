@@ -4,8 +4,8 @@
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
-http://103.175.242.10:8080/tsports1/index.m3u8
-
+#http://103.175.242.10:8080/tsports1/index.m3u8
+https://cdn.bdixtv24.vip/tsports/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
