@@ -4,12 +4,14 @@
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
-https://customer-xzutz8x5zz7h9d1e.cloudflarestream.com/c5774cbfec1ab5fcf357537672a247bb/manifest/video.m3u8
+#https://customer-xzutz8x5zz7h9d1e.cloudflarestream.com/c5774cbfec1ab5fcf357537672a247bb/manifest/video.m3u8
+http://116.204.149.16/t_sports/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
 #https://cdn.bdixtv24.vip/tsports/index.m3u8
-https://tvsen5.aynaott.com/Ptvsports/index.m3u8
+#https://tvsen5.aynaott.com/Ptvsports/index.m3u8
+http://stvlive.net:8080/tsports1/index.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 4
 https://xfireflix.fun/playlist/bdix/Tsports.m3u8/
