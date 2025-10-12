@@ -7,13 +7,13 @@ https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/inde
 http://116.204.149.16/t_sports/index.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports HD 2
-https://xfireflix.fun/playlist/bdix/Tsports.m3u8/
+http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports HD 3
 http://147.93.154.65/Bein3/index.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
-https://xfireflix.fun/file/opplex/stream.m3u8/?id=167583&e=.m3u8
+https://d15.epicquesthero.com:999/hls/willowusa.m3u8?md5=ftXUHiJyAVQV__YgqR9pkg&expires=1760306014
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
 
@@ -152,7 +152,7 @@ https://xfireflix.fun/file/opplex/stream.m3u8/?id=167593&e=.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8/?id=167594&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow HD
-https://xfireflix.fun/file/opplex/stream.m3u8/?id=167583&e=.m3u8
+https://d15.epicquesthero.com:999/hls/willowusa.m3u8?md5=ftXUHiJyAVQV__YgqR9pkg&expires=1760306014
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
