@@ -3,11 +3,20 @@
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports HD
 http://116.204.149.16/t_sports/index.m3u8
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports HD
+https://xfireflix.fun/playlist/bdix/Tsports.m3u8/
+
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports HD
+http://147.93.154.65/Bein3/index.m3u8
+
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 2
 https://xfireflix.fun/file/opplex/stream.m3u8/?id=167583&e=.m3u8
+
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 3
+
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 4
 
@@ -519,6 +528,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
