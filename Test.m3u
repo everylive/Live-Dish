@@ -50,7 +50,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1760463186&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e6b9bdff2d26c138ca48b0aa5c6f17ef
 
 #EXTINF:-1, tvg-id="", tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288", group-title="Bangladesh",Boishakhi TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co/h1fRcgM2/Banglavision.jpg", group-title="Bangladesh",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
