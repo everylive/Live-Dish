@@ -113,7 +113,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1, tvg-id="25", tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3", group-title="Bangladesh",Ekattor TV
-https://bozztv.com/rongo/rongo-EkhonTV/tracks-a1/mono.m3u8
+#https://bozztv.com/rongo/rongo-EkhonTV/tracks-a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1, tvg-id="27", tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122", group-title="Bangladesh",Jamuna TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
