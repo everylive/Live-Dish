@@ -301,7 +301,13 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Hindi",Sony MAX HD
-http://51.15.7.9:3141/max/index.m3u8
+http://103.175.242.10:8080/sonymax/index.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Hindi",Sony MAX 2
+http://103.175.242.10:8080/sonymax2/index.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Hindi",Sony MAX SD
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1366.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png", group-title="Indian Hindi",Star Plus HD
 http://51.15.7.9:3141/starplus/index.m3u8
@@ -545,6 +551,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
