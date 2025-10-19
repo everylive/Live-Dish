@@ -89,10 +89,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1, tvg-id="", tvg-logo="https://s3.aynaott.com/storage/effb608ccd66e46f6b263cfdbc541f09", group-title="Bangladesh",Deepto TV 2
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1, tvg-id="24", tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08", group-title="Indian Bangla",Bangla TV
+#EXTINF:-1, tvg-id="24", tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08", group-title="Bangladesh",Bangla TV
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 
-#EXTINF:-1, tvg-id="24", tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08", group-title="Indian Bangla",Bangla TV 2
+#EXTINF:-1, tvg-id="24", tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08", group-title="Bangladesh",Bangla TV 2
 https://tvsen6.aynaott.com/banglatv/index.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png", group-title="Bangladesh",Nagorik TV
@@ -347,16 +347,16 @@ http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Indian Bangla",Star Jalsha HD
-https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+https://tvsen7.aynaott.com/sjhdbd/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png" group-title="Indian Bangla",Star Jalsha 
-
+https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Bangla",Star Jalsha Movie
 
 
-#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Bangla",Star Jalsha 2
-https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Bangla",Star Jalsha
+
 
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Indian Bangla",Star Jalsha 3
@@ -562,6 +562,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+
 
 
 
