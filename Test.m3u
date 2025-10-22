@@ -51,7 +51,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991", group-title="Bangladesh",RTV
 #https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
+https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1761133447&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=d4f284d652427f0336edb952e2eb0d36
 
 #EXTINF:-1, tvg-id="", tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288", group-title="Bangladesh",Boishakhi TV
 
