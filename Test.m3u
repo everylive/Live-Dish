@@ -66,7 +66,7 @@ https://mytvbangla.com/0.m3u8
 
 
 #EXTINF:-1, tvg-id="2", tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg", group-title="Bangladesh",Maasranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 #EXTINF:-1, tvg-id="14", tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef", group-title="Bangladesh",Channel 9
 https://tvsen6.aynaott.com/channel9/index.m3u8
