@@ -139,8 +139,8 @@ https://tvsen6.aynaott.com/news24/index.m3u8
 #EXTINF:-1, tvg-id="20", tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe", group-title="Bangladesh",DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="28", tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="Bangladesh",Nexus Television
-https://tvsen6.aynaott.com/nexustv/index.m3u8
+#EXTINF:-1, tvg-id="28", tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="Bangladesh",Nexus Television
+https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1761133169&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=9cc9db8f85837cdd7ea7eb02c8597b9d
 
 #EXTINF:-1, tvg-id="21", tvg-logo="https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868", group-title="Bangladesh",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
