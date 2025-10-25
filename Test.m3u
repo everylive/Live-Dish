@@ -811,7 +811,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery Bangla
-https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+http://78.108.251.7/Discovery_HD/index.m3u8
 
 #EXTINF:-1 group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery Bangla
 http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
@@ -820,7 +820,7 @@ http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
 http://151.80.18.177:86/Discovery_HD/index.m3u8
 
 #EXTINF:-1 group-title="Educational" tvg-logo="",NATIONAL GEOGRAPHIC Bangla
-https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1753741271&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=28fb5e55cb2dfae7a459262dc691f93b
+
 
 #EXTINF:-1 group-title="Educational" tvg-logo="",NATIONAL GEOGRAPHIC HD
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
@@ -846,6 +846,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",B>U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8 
+
 
 
 
