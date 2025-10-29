@@ -45,11 +45,11 @@ jobs:
       # 1. Live Sports (Local File)
       - name: 1. Append Local Live Sports Group
         run: |
-          FILE_NAME="Live Sports"
+          FILE_NAME="Live_Sports"
           GROUP_TITLE="Live Sports"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo " ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
+            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             # Single-line AWK ব্যবহার করা হয়েছে, যা ত্রুটিমুক্ত
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
@@ -63,13 +63,12 @@ jobs:
         run: |
           EXTERNAL_URL="https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/main/playlist.m3u"
           GROUP_TITLE="Fancode"
-          GROUP_NAME="$GROUP_TITLE Auto Updated"
           TEMP_FILE="fancode_temp.m3u"
 
           curl -L "$EXTERNAL_URL" -o "$TEMP_FILE"
           
-          echo "" >> playlist.m3u
-          echo " ----------- $GROUP_NAME -----------" >> playlist.m3u
+          echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+          # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
           # Single-line AWK ব্যবহার করা হয়েছে, যা ত্রুটিমুক্ত
           awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$TEMP_FILE" >> playlist.m3u
           echo "" >> playlist.m3u
@@ -81,8 +80,8 @@ jobs:
           FILE_NAME="Bangladesh"
           GROUP_TITLE="Bangladesh"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo " ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
+            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -93,10 +92,11 @@ jobs:
       # 4. Indian Bangla (Local File)
       - name: 4. Append Local Indian Bangla Group
         run: |
-          FILE_NAME="Indian Bangla"
+          FILE_NAME="Indian_Bangla"
           GROUP_TITLE="Indian Bangla"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
+            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -107,10 +107,11 @@ jobs:
       # 5. Indian Hindi (Local File)
       - name: 5. Append Local Indian Hindi Group
         run: |
-          FILE_NAME="Indian Hindi"
+          FILE_NAME="Indian_Hindi"
           GROUP_TITLE="Indian Hindi"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
+            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -124,7 +125,8 @@ jobs:
           FILE_NAME="Educational"
           GROUP_TITLE="Educational"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
+            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -138,7 +140,8 @@ jobs:
           FILE_NAME="Sports"
           GROUP_TITLE="Sports"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
+            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -152,7 +155,8 @@ jobs:
           FILE_NAME="Kids"
           GROUP_TITLE="Kids"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
+            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
