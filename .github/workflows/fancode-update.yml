@@ -9,24 +9,37 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # ✅ 
+
     steps:
       - name: Checkout your repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download Fancode playlist
         run: |
-          curl -L "https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u" -o fancode.m3u
+          curl -L "https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/main/playlist.m3u" -o fancode.m3u
 
       - name: Clean Fancode file header
         run: |
-          # Remove #EXTM3U header line from fancode.m3u
+          # Remove any #EXTM3U line from fancode.m3u
           grep -v '^#EXTM3U' fancode.m3u > fancode_clean.m3u
+
+      - name: Ensure main file has only one #EXTM3U
+        run: |
+          if [ ! -f Test.m3u ]; then
+            echo "#EXTM3U" > Test.m3u
+          fi
+          # Remove duplicate #EXTM3U (if any)
+          awk '!a[$0]++' Test.m3u | awk 'NR==1 || $0!="#EXTM3U"' > temp && mv temp Test.m3u
 
       - name: Remove old Fancode section (if exists)
         run: |
           awk '
           BEGIN {skip=0}
-          /#EXTINF/ && /group-title="LIVE Sports"/ {skip=1}
+          /# ----------- Fancode Auto Updated Group -----------/ {skip=1; next}
           skip && /^$/ {skip=0; next}
           !skip {print}
           ' Test.m3u > tmp && mv tmp Test.m3u
@@ -35,7 +48,7 @@ jobs:
         run: |
           echo "" >> Test.m3u
           echo "# ----------- Fancode Auto Updated Group -----------" >> Test.m3u
-          sed 's/^#EXTINF:-1/#EXTINF:-1 group-title="Fancode"/' fancode_clean.m3u >> Test.m3u
+          sed 's/^#EXTINF:-1/#EXTINF:-1 group-title="Fancode Live"/' fancode_clean.m3u >> Test.m3u
           echo "" >> Test.m3u
 
       - name: Commit and push if changed
