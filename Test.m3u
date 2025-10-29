@@ -39,8 +39,8 @@ https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" group-title="Fancode-Cricket", West Indies vs Bangladesh (West Indies tour of Bangladesh, 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/137704_english_hls_e4a280240634404_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg" group-title="Fancode-Cricket", Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)
-https://bd-mc-fdlive.fancode.com/mumbai/137372_english_hls_5b67cd5e0744858_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136111_5648_KHA_ASC_fc-Web_1758118382889.jpg" group-title="Fancode-Football", Khaldiya vs Al Ahli (QAT) (AFC Champions League Two 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/136111_english_hls_4a95597bba72393_1ta-di_h264/index.m3u8
 
 
 
@@ -274,12 +274,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8 
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&pictures HD 
-http://66.102.120.18:8000/play/a01t
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
 https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
-http://66.102.120.18:8000/play/a01u
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",B4U Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
@@ -291,12 +291,12 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
-http://66.102.120.18:8000/play/a00a
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
-http://66.102.120.18:8000/play/a06z
+
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Colors Cineplex Bollywood
-http://66.102.120.18:8000/play/a01a
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/B6z3dyyj/Colors-Rishtey.jpg",Colors Rishtey HD
 
@@ -313,19 +313,19 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
 https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
-http://66.102.120.18:8000/play/a00d
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sab TV
 https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sab TV
-http://66.102.120.18:8000/play/a035
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-http://66.102.120.18:8000/play/a005
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony Max 2
 https://tiger-hub.vercel.app/SONY/MaxUK-2/tracks-v1a1/mono.ts.m3u8
@@ -334,35 +334,35 @@ https://tiger-hub.vercel.app/SONY/MaxUK-2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
-http://66.102.120.18:8000/play/a012
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
 http://116.90.120.149:8000/play/a0c2/index.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
-http://66.102.120.18:8000/play/a00f
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold 2 HD
-http://116.90.120.149:8000/play/a0ea/index.m3u8
+
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold 2 HD
-http://66.102.120.18:8000/play/a00g
+
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold 2 HD
-http://66.102.120.18:8000/play/a077
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Select
 
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Select HD
-http://66.102.120.18:8000/play/a01s
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Thrills
 http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Thrills 
-http://66.102.120.18:8000/play/a00c
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",STAR Plus HD 
-http://66.102.120.18:8000/play/a008
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Utsav SD
 http://116.90.120.149:8000/play/a02t/index.m3u8
@@ -372,29 +372,28 @@ http://116.90.120.149:8000/play/a02r/index.m3u8
 
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/c4hjk9jG/Zee-Anmol.jpg",Zee Bollywood 
-http://66.102.120.18:8000/play/a00n
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
-http://66.102.120.18:8000/play/a06w
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
-http://66.102.120.18:8000/play/a00y
+
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee Anmol Cinema
-http://66.102.120.18:8000/play/a01v
+
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee Classic 
-http://66.102.120.18:8000/play/a006
 
 
 
 
 #EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery Bangla
-http://78.108.251.7/Discovery_HD/index.m3u8
+
 
 #EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery Bangla
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
+
 
 #EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery HD
 http://151.80.18.177:86/Discovery_HD/index.m3u8
