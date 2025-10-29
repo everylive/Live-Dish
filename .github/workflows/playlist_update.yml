@@ -49,7 +49,7 @@ jobs:
           GROUP_TITLE="Live Sports"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
+            echo " ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
             # Single-line AWK ব্যবহার করা হয়েছে, যা ত্রুটিমুক্ত
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
@@ -69,7 +69,7 @@ jobs:
           curl -L "$EXTERNAL_URL" -o "$TEMP_FILE"
           
           echo "" >> playlist.m3u
-          echo "# ----------- $GROUP_NAME -----------" >> playlist.m3u
+          echo " ----------- $GROUP_NAME -----------" >> playlist.m3u
           # Single-line AWK ব্যবহার করা হয়েছে, যা ত্রুটিমুক্ত
           awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$TEMP_FILE" >> playlist.m3u
           echo "" >> playlist.m3u
@@ -82,7 +82,7 @@ jobs:
           GROUP_TITLE="Bangladesh"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
+            echo " ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -97,7 +97,6 @@ jobs:
           GROUP_TITLE="Indian Bangla"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -112,7 +111,6 @@ jobs:
           GROUP_TITLE="Indian Hindi"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -127,7 +125,6 @@ jobs:
           GROUP_TITLE="Educational"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -142,7 +139,6 @@ jobs:
           GROUP_TITLE="Sports"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
@@ -157,7 +153,6 @@ jobs:
           GROUP_TITLE="Kids"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
             awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
             echo "" >> playlist.m3u
             echo "Local file $FILE_NAME successfully appended."
