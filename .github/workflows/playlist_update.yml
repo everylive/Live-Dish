@@ -34,25 +34,25 @@ jobs:
             fi
           done
 
-      # --- ১. playlist.m3u ফাইলটি পরিষ্কার করা (শুরুতে #EXTM3U নিশ্চিত) ---
-      - name: Initialize or clean playlist.m3u
+      # --- ১. Test.m3u ফাইলটি পরিষ্কার করা (শুরুতে #EXTM3U নিশ্চিত) ---
+      - name: Initialize or clean Test.m3u
         run: |
-          # নিশ্চিত করুন যে playlist.m3u ফাইলে শুধুমাত্র একটি #EXTM3U আছে
-          echo "#EXTM3U" > playlist.m3u
+          # নিশ্চিত করুন যে Test.m3u ফাইলে শুধুমাত্র একটি #EXTM3U আছে
+          echo "#EXTM3U" > Test.m3u
 
       # --- ২. লোকাল/এক্সটার্নাল ফাইল যুক্ত করা (আপনার নতুন তালিকা অনুযায়ী) ---
       
       # 1. Live Sports (Local File)
       - name: 1. Append Local Live Sports Group
         run: |
-          FILE_NAME="Live_Sports"
+          FILE_NAME="Live Sports"
           GROUP_TITLE="Live Sports"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
             # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
             # Single-line AWK ব্যবহার করা হয়েছে, যা ত্রুটিমুক্ত
-            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
-            echo "" >> playlist.m3u
+            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> Test.m3u
+            echo "" >> Test.m3u
             echo "Local file $FILE_NAME successfully appended."
           else
             echo "Warning: Local file $FILE_NAME not found. Skipping."
@@ -67,11 +67,11 @@ jobs:
 
           curl -L "$EXTERNAL_URL" -o "$TEMP_FILE"
           
-          echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+          echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
           # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
           # Single-line AWK ব্যবহার করা হয়েছে, যা ত্রুটিমুক্ত
-          awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$TEMP_FILE" >> playlist.m3u
-          echo "" >> playlist.m3u
+          awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$TEMP_FILE" >> Test.m3u
+          echo "" >> Test.m3u
           rm "$TEMP_FILE"
 
       # 3. Bangladesh (Local File)
@@ -80,10 +80,10 @@ jobs:
           FILE_NAME="Bangladesh"
           GROUP_TITLE="Bangladesh"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
             # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
-            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
-            echo "" >> playlist.m3u
+            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> Test.m3u
+            echo "" >> Test.m3u
             echo "Local file $FILE_NAME successfully appended."
           else
             echo "Warning: Local file $FILE_NAME not found. Skipping."
@@ -92,13 +92,13 @@ jobs:
       # 4. Indian Bangla (Local File)
       - name: 4. Append Local Indian Bangla Group
         run: |
-          FILE_NAME="Indian_Bangla"
+          FILE_NAME="Indian Bangla"
           GROUP_TITLE="Indian Bangla"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
             # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
-            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
-            echo "" >> playlist.m3u
+            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> Test.m3u
+            echo "" >> Test.m3u
             echo "Local file $FILE_NAME successfully appended."
           else
             echo "Warning: Local file $FILE_NAME not found. Skipping."
@@ -107,13 +107,13 @@ jobs:
       # 5. Indian Hindi (Local File)
       - name: 5. Append Local Indian Hindi Group
         run: |
-          FILE_NAME="Indian_Hindi"
+          FILE_NAME="Indian Hindi"
           GROUP_TITLE="Indian Hindi"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
             # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
-            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
-            echo "" >> playlist.m3u
+            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> Test.m3u
+            echo "" >> Test.m3u
             echo "Local file $FILE_NAME successfully appended."
           else
             echo "Warning: Local file $FILE_NAME not found. Skipping."
@@ -125,10 +125,10 @@ jobs:
           FILE_NAME="Educational"
           GROUP_TITLE="Educational"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
             # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
-            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
-            echo "" >> playlist.m3u
+            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> Test.m3u
+            echo "" >> Test.m3u
             echo "Local file $FILE_NAME successfully appended."
           else
             echo "Warning: Local file $FILE_NAME not found. Skipping."
@@ -140,10 +140,10 @@ jobs:
           FILE_NAME="Sports"
           GROUP_TITLE="Sports"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
             # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
-            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
-            echo "" >> playlist.m3u
+            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> Test.m3u
+            echo "" >> Test.m3u
             echo "Local file $FILE_NAME successfully appended."
           else
             echo "Warning: Local file $FILE_NAME not found. Skipping."
@@ -155,10 +155,10 @@ jobs:
           FILE_NAME="Kids"
           GROUP_TITLE="Kids"
           if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
+            echo "" >> Test.m3u # এই লাইনটি কেবল একটি নিউলাইন যোগ করবে
             # বিভাজক লাইনটি সম্পূর্ণভাবে মুছে ফেলা হলো
-            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> playlist.m3u
-            echo "" >> playlist.m3u
+            awk -v title="$GROUP_TITLE" '!/^#EXTM3U/ { if ($0 ~ /^#EXTINF:-1/) { sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\""); } print $0 }' "$FILE_NAME" >> Test.m3u
+            echo "" >> Test.m3u
             echo "Local file $FILE_NAME successfully appended."
           else
             echo "Warning: Local file $FILE_NAME not found. Skipping."
@@ -171,6 +171,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u
+          git add Test.m3u
           git commit -m "Auto-update master playlist with local and external groups" || echo "No changes to commit"
           git push
