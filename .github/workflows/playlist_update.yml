@@ -81,7 +81,7 @@ jobs:
       - name: 4. Append Local Indian Bangla Group
         run: |
           # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Indian_Bangla"
+          FILE_NAME="Indian Bangla"
           GROUP_TITLE="Indian Bangla"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -98,7 +98,7 @@ jobs:
       - name: 5. Append Local Indian Hindi Group
         run: |
           # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Indian_Hindi"
+          FILE_NAME="Indian Hindi"
           GROUP_TITLE="Indian Hindi"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
