@@ -27,140 +27,85 @@ jobs:
 
       # --- ২. লোকাল/এক্সটার্নাল ফাইল যুক্ত করা (আপনার নতুন তালিকা অনুযায়ী) ---
       
+      # Helper function (using awk for reliable content and newline handling)
+      # $1: File Path, $2: Group Title
+      - name: Setup M3U Append Function
+        run: |
+          # M3U কনটেন্টকে প্রসেস করে এবং group-title যোগ করে master playlist-এ যুক্ত করার জন্য ফাংশন
+          echo 'append_m3u_group() {
+            FILE_NAME="$1"
+            GROUP_TITLE="$2"
+
+            if [ -f "$FILE_NAME" ]; then
+              echo "" >> playlist.m3u
+              echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
+              # awk ব্যবহার করে: #EXTM3U হেডার বাদ দেওয়া, group-title যোগ করা এবং নিউলাইন নিশ্চিত করা
+              awk -v title="$GROUP_TITLE" '
+                !/^#EXTM3U/ {
+                  if ($0 ~ /^#EXTINF:-1/) {
+                    sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\"");
+                  }
+                  print $0
+                }
+              ' "$FILE_NAME" >> playlist.m3u
+              echo "" >> playlist.m3u
+              echo "Local file $FILE_NAME successfully appended."
+            else
+              echo "Warning: Local file $FILE_NAME not found. Skipping."
+            fi
+          }' >> $GITHUB_ENV
+
       # 1. Live Sports (Local File)
       - name: 1. Append Local Live Sports Group
-        run: |
-          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Live_Sports"
-          GROUP_TITLE="Live Sports"
-          if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
-            # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা হচ্ছে
-            grep -v '^#EXTM3U' "$FILE_NAME" | sed "s/^#EXTINF:-1/#EXTINF:-1 group-title=\"$GROUP_TITLE\"/" >> playlist.m3u
-            echo "" >> playlist.m3u
-            echo "Local file $FILE_NAME successfully appended."
-          else
-            echo "Warning: Local file $FILE_NAME not found. Skipping."
-          fi
+        run: append_m3u_group "Live Sports" "Live Sports"
 
       # 2. External Link: Fancode (Group)
       - name: 2. Download and Append Fancode Playlist (External Link)
         run: |
           EXTERNAL_URL="https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/main/playlist.m3u"
-          GROUP_NAME="Fancode Auto Updated"
+          GROUP_TITLE="Fancode"
+          GROUP_NAME="$GROUP_TITLE Auto Updated"
           TEMP_FILE="fancode_temp.m3u"
 
           curl -L "$EXTERNAL_URL" -o "$TEMP_FILE"
           
           echo "" >> playlist.m3u
           echo "# ----------- $GROUP_NAME -----------" >> playlist.m3u
-          # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা
-          grep -v '^#EXTM3U' "$TEMP_FILE" | sed 's/^#EXTINF:-1/#EXTINF:-1 group-title="Fancode"/' >> playlist.m3u
+          # awk ব্যবহার করে: #EXTM3U হেডার বাদ দেওয়া, group-title যোগ করা এবং নিউলাইন নিশ্চিত করা
+          awk -v title="$GROUP_TITLE" '
+            !/^#EXTM3U/ {
+              if ($0 ~ /^#EXTINF:-1/) {
+                sub(/^#EXTINF:-1/, "#EXTINF:-1 group-title=\"" title "\"");
+              }
+              print $0
+            }
+          ' "$TEMP_FILE" >> playlist.m3u
           echo "" >> playlist.m3u
           rm "$TEMP_FILE"
 
-      # 3. Bangladesh (Local File - New Name)
+      # 3. Bangladesh (Local File)
       - name: 3. Append Local Bangladesh Group
-        run: |
-          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Bangladesh"
-          GROUP_TITLE="Bangladesh"
-          if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
-            # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা হচ্ছে
-            grep -v '^#EXTM3U' "$FILE_NAME" | sed "s/^#EXTINF:-1/#EXTINF:-1 group-title=\"$GROUP_TITLE\"/" >> playlist.m3u
-            echo "" >> playlist.m3u
-            echo "Local file $FILE_NAME successfully appended."
-          else
-            echo "Warning: Local file $FILE_NAME not found. Skipping."
-          fi
+        run: append_m3u_group "Bangladesh" "Bangladesh"
 
       # 4. Indian Bangla (Local File)
       - name: 4. Append Local Indian Bangla Group
-        run: |
-          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Indian Bangla"
-          GROUP_TITLE="Indian Bangla"
-          if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
-            # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা হচ্ছে
-            grep -v '^#EXTM3U' "$FILE_NAME" | sed "s/^#EXTINF:-1/#EXTINF:-1 group-title=\"$GROUP_TITLE\"/" >> playlist.m3u
-            echo "" >> playlist.m3u
-            echo "Local file $FILE_NAME successfully appended."
-          else
-            echo "Warning: Local file $FILE_NAME not found. Skipping."
-          fi
+        run: append_m3u_group "Indian Bangla" "Indian Bangla"
 
       # 5. Indian Hindi (Local File)
       - name: 5. Append Local Indian Hindi Group
-        run: |
-          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Indian Hindi"
-          GROUP_TITLE="Indian Hindi"
-          if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
-            # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা হচ্ছে
-            grep -v '^#EXTM3U' "$FILE_NAME" | sed "s/^#EXTINF:-1/#EXTINF:-1 group-title=\"$GROUP_TITLE\"/" >> playlist.m3u
-            echo "" >> playlist.m3u
-            echo "Local file $FILE_NAME successfully appended."
-          else
-            echo "Warning: Local file $FILE_NAME not found. Skipping."
-          fi
+        run: append_m3u_group "Indian Hindi" "Indian Hindi"
           
       # 6. Educational (Local File)
       - name: 6. Append Local Educational Group
-        run: |
-          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Educational"
-          GROUP_TITLE="Educational"
-          if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
-            # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা হচ্ছে
-            grep -v '^#EXTM3U' "$FILE_NAME" | sed "s/^#EXTINF:-1/#EXTINF:-1 group-title=\"$GROUP_TITLE\"/" >> playlist.m3u
-            echo "" >> playlist.m3u
-            echo "Local file $FILE_NAME successfully appended."
-          else
-            echo "Warning: Local file $FILE_NAME not found. Skipping."
-          fi
+        run: append_m3u_group "Educational" "Educational"
 
       # 7. Sports (General) (Local File)
       - name: 7. Append Local Sports Group (General)
-        run: |
-          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Sports"
-          GROUP_TITLE="Sports"
-          if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
-            # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা হচ্ছে
-            grep -v '^#EXTM3U' "$FILE_NAME" | sed "s/^#EXTINF:-1/#EXTINF:-1 group-title=\"$GROUP_TITLE\"/" >> playlist.m3u
-            echo "" >> playlist.m3u
-            echo "Local file $FILE_NAME successfully appended."
-          else
-            echo "Warning: Local file $FILE_NAME not found. Skipping."
-          fi
+        run: append_m3u_group "Sports" "Sports"
 
       # 8. Kids (Local File)
       - name: 8. Append Local Kids Group
-        run: |
-          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
-          FILE_NAME="Kids"
-          GROUP_TITLE="Kids"
-          if [ -f "$FILE_NAME" ]; then
-            echo "" >> playlist.m3u
-            echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
-            # #EXTM3U হেডার বাদ দিয়ে group-title যোগ করে Master ফাইলে যুক্ত করা হচ্ছে
-            grep -v '^#EXTM3U' "$FILE_NAME" | sed "s/^#EXTINF:-1/#EXTINF:-1 group-title=\"$GROUP_TITLE\"/" >> playlist.m3u
-            echo "" >> playlist.m3u
-            echo "Local file $FILE_NAME successfully appended."
-          else
-            echo "Warning: Local file $FILE_NAME not found. Skipping."
-          fi
+        run: append_m3u_group "Kids" "Kids"
 
       # --- ৩. কমিট এবং Push করা ---
       - name: Commit and push if changed
