@@ -23,13 +23,15 @@ jobs:
         run: |
           # নিশ্চিত করুন যে playlist.m3u ফাইলে শুধুমাত্র একটি #EXTM3U আছে
           echo "#EXTM3U" > playlist.m3u
+          # Note: Local source files will be searched in the repository root.
 
       # --- ২. লোকাল/এক্সটার্নাল ফাইল যুক্ত করা (আপনার নতুন তালিকা অনুযায়ী) ---
       
       # 1. Live Sports (Local File)
       - name: 1. Append Local Live Sports Group
         run: |
-          FILE_NAME="live_sports"
+          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
+          FILE_NAME="Live_Sports"
           GROUP_TITLE="Live Sports"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -58,11 +60,12 @@ jobs:
           echo "" >> playlist.m3u
           rm "$TEMP_FILE"
 
-      # 3. Bangla (Local File)
-      - name: 3. Append Local Bangla Group
+      # 3. Bangladesh (Local File - New Name)
+      - name: 3. Append Local Bangladesh Group
         run: |
-          FILE_NAME="bangla"
-          GROUP_TITLE="Bangla"
+          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
+          FILE_NAME="Bangladesh"
+          GROUP_TITLE="Bangladesh"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
             echo "# ----------- Local $GROUP_TITLE Group -----------" >> playlist.m3u
@@ -77,7 +80,8 @@ jobs:
       # 4. Indian Bangla (Local File)
       - name: 4. Append Local Indian Bangla Group
         run: |
-          FILE_NAME="indian_bangla"
+          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
+          FILE_NAME="Indian_Bangla"
           GROUP_TITLE="Indian Bangla"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -93,7 +97,8 @@ jobs:
       # 5. Indian Hindi (Local File)
       - name: 5. Append Local Indian Hindi Group
         run: |
-          FILE_NAME="indian_hindi"
+          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
+          FILE_NAME="Indian_Hindi"
           GROUP_TITLE="Indian Hindi"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -109,7 +114,8 @@ jobs:
       # 6. Educational (Local File)
       - name: 6. Append Local Educational Group
         run: |
-          FILE_NAME="educational"
+          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
+          FILE_NAME="Educational"
           GROUP_TITLE="Educational"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -125,7 +131,8 @@ jobs:
       # 7. Sports (General) (Local File)
       - name: 7. Append Local Sports Group (General)
         run: |
-          FILE_NAME="sports"
+          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
+          FILE_NAME="Sports"
           GROUP_TITLE="Sports"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -141,7 +148,8 @@ jobs:
       # 8. Kids (Local File)
       - name: 8. Append Local Kids Group
         run: |
-          FILE_NAME="kids"
+          # রুট ডিরেক্টরি থেকে ফাইল লোড হচ্ছে
+          FILE_NAME="Kids"
           GROUP_TITLE="Kids"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
