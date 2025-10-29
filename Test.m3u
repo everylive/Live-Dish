@@ -56,22 +56,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 #EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288", group-title="Bangladesh",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261", group-title="Bangladesh",Channel i
+#EXTINF:-1 group-title="Bangladesh", tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261", group-title="Bangladesh",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangladesh", tvg-id="6", tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4", group-title="Bangladesh",Ekushey Television (ETV)
-#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-https://tvsen6.aynascope.net/etv/index.m3u8?e=1761727229&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=8514690bce8aea79f2671f8a5312aa78
+#EXTINF:-1 group-title="Bangladesh", tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4", group-title="Bangladesh",Ekushey Television (ETV)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="https://i.ibb.co.com/MymvXsgj/NTV.jpg", group-title="Bangladesh", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991", group-title="Bangladesh",RTV
 #https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
-https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1761133447&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=d4f284d652427f0336edb952e2eb0d36
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288", group-title="Bangladesh",Boishakhi TV
-
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="https://i.ibb.co/h1fRcgM2/Banglavision.jpg", group-title="Bangladesh",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
@@ -113,7 +112,8 @@ https://cdn-4.pishow.tv/live/1499/master.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="", tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png", group-title="Bangladesh",Nagorik TV
-http://103.175.242.10:8080/nagorik/index.m3u8
+#http://103.175.242.10:8080/nagorik/index.m3u8
+http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="33", tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f", group-title="Bangladesh",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
