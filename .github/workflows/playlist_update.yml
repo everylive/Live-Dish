@@ -18,6 +18,22 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # --- অতিরিক্ত ধাপ: Line Endings ফিক্স করা (খুবই গুরুত্বপূর্ণ) ---
+      - name: Install dos2unix
+        run: sudo apt-get update && sudo apt-get install -y dos2unix
+        
+      - name: Normalize Local Files (Line Endings)
+        run: |
+          echo "Fixing line endings for all local source files..."
+          for file in Live_Sports Bangladesh Indian_Bangla Indian_Hindi Educational Sports Kids; do
+            if [ -f "$file" ]; then
+              dos2unix "$file"
+              echo "Normalized line endings for $file"
+            else
+              echo "File $file not found. Skipping normalization."
+            fi
+          done
+
       # --- ১. playlist.m3u ফাইলটি পরিষ্কার করা (শুরুতে #EXTM3U নিশ্চিত) ---
       - name: Initialize or clean playlist.m3u
         run: |
