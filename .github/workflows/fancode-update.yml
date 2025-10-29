@@ -17,11 +17,16 @@ jobs:
         run: |
           curl -L "https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u" -o fancode.m3u
 
+      - name: Clean Fancode file header
+        run: |
+          # Remove #EXTM3U header line from fancode.m3u
+          grep -v '^#EXTM3U' fancode.m3u > fancode_clean.m3u
+
       - name: Remove old Fancode section (if exists)
         run: |
           awk '
           BEGIN {skip=0}
-          /#EXTINF/ && /group-title="Fancode"/ {skip=1}
+          /#EXTINF/ && /group-title="LIVE Sports"/ {skip=1}
           skip && /^$/ {skip=0; next}
           !skip {print}
           ' Test.m3u > tmp && mv tmp Test.m3u
@@ -30,10 +35,12 @@ jobs:
         run: |
           echo "" >> Test.m3u
           echo "# ----------- Fancode Auto Updated Group -----------" >> Test.m3u
-          sed 's/^#EXTINF:-1/#EXTINF:-1 group-title="Fancode"/' fancode.m3u >> Test.m3u
+          sed 's/^#EXTINF:-1/#EXTINF:-1 group-title="Fancode"/' fancode_clean.m3u >> Test.m3u
           echo "" >> Test.m3u
 
       - name: Commit and push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
