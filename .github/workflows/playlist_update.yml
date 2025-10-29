@@ -45,7 +45,7 @@ jobs:
       # 1. Live Sports (Local File)
       - name: 1. Append Local Live Sports Group
         run: |
-          FILE_NAME="Live_Sports"
+          FILE_NAME="Live Sports"
           GROUP_TITLE="Live Sports"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -93,7 +93,7 @@ jobs:
       # 4. Indian Bangla (Local File)
       - name: 4. Append Local Indian Bangla Group
         run: |
-          FILE_NAME="Indian_Bangla"
+          FILE_NAME="Indian Bangla"
           GROUP_TITLE="Indian Bangla"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
@@ -108,7 +108,7 @@ jobs:
       # 5. Indian Hindi (Local File)
       - name: 5. Append Local Indian Hindi Group
         run: |
-          FILE_NAME="Indian_Hindi"
+          FILE_NAME="Indian Hindi"
           GROUP_TITLE="Indian Hindi"
           if [ -f "$FILE_NAME" ]; then
             echo "" >> playlist.m3u
