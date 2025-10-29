@@ -1,6 +1,6 @@
 #EXTM3U
 
-# ----------- Local Live Sports Group -----------
+ ----------- Local Live Sports Group -----------
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
@@ -37,7 +37,7 @@ https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 5
 
 
-# ----------- Fancode Auto Updated -----------
+ ----------- Fancode Auto Updated -----------
 #EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" group-title="Fancode-Cricket", West Indies vs Bangladesh (West Indies tour of Bangladesh, 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/137704_english_hls_e4a280240634404_1ta-di_h264/index.m3u8
 
@@ -48,7 +48,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/137372_english_hls_5b67cd5e0744858_1ta-d
 https://bd-mc-fdlive.fancode.com/mumbai/137866_english_hls_1b7c5ce96e24768_1ta-di_h264/index.m3u8
 
 
-# ----------- Local Bangladesh Group -----------
+ ----------- Local Bangladesh Group -----------
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
@@ -181,7 +181,6 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
 
-# ----------- Local Indian Bangla Group -----------
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 #https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 http://87.255.35.150:18237/master.m3u8
@@ -275,7 +274,6 @@ http://15.235.185.236/hls/bhi.m3u8
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 
-# ----------- Local Indian Hindi Group -----------
 #EXTINF:-1 group-title="Indian Hindi" group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",9xM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
 
@@ -457,7 +455,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 
 
-# ----------- Local Educational Group -----------
 #EXTINF:-1 group-title="Educational" group-title="Educational" tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",Discovery Bangla
 http://78.108.251.7/Discovery_HD/index.m3u8
 
@@ -480,7 +477,6 @@ http://195.189.60.31:8003/play/a0gk/index.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 
-# ----------- Local Sports Group -----------
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 http://116.204.149.16/t_sports/index.m3u8
 
@@ -645,7 +641,6 @@ http://78.108.251.7/Arena_Sport_4/index.m3u8
 http://78.108.251.7/Arena_Sport_5/index.m3u8
 
 
-# ----------- Local Kids Group -----------
 #EXTINF:-1 group-title="Kids" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Angry Bird
 https://tiger-hub.vercel.app/kids_Zone/Angry-birds/tracks-v1a1/mono.ts.m3u8
 
