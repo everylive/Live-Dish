@@ -27,9 +27,13 @@ https://wo.cma.footballii.ir/hls2/solh.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" 
 
-#EXTINF:-1 group-title="LIVE Sports" 
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FOX SPORTS 501
+https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-33/4gs2-f72z/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIVE Sports"
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FOX SPORTS 505
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-101/v594-ykwe/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="LIVE Sports" 
