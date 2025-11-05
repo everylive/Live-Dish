@@ -127,3 +127,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",IQRA Bangla
 https://cd198.anystream.uk:8082/hls/iq53la/8_7/index.m3u8?tkn=1306079480
+
+#EXTINF:-1 group-title="Religious" tvg-id="" tvg-logo="",How Sweet Natok
+https://0uki2r61lp.guardstorage.net/hls_3/5EvZ8T-sR5drVGCKKMyHhRWDMxjD_ickRUbPZl_vq9wH8ZdR0tvHnOIOyrcU8Z2uUbJaQVb_nXJLQ9NRwqxsfA/index-f3-v1-a1.m3u8?sig=W1Kq6tSn5zHXRuDbj2mkdQ&expires=1762355254
