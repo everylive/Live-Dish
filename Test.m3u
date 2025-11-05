@@ -158,7 +158,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="20", tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe", group-title="Bangladesh",DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
-https://stalker.tnm3us.workers.dev/11216.m3u8
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="28", tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9", group-title="Bangladesh",Nexus Television
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8
@@ -184,8 +183,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 group-title="Bangladesh" group-title="Religious" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",IQRA Bangla
 https://cd198.anystream.uk:8082/hls/iq53la/8_7/index.m3u8?tkn=1306079480
 
-#EXTINF:-1 group-title="Bangladesh" group-title="Religious" tvg-id="" tvg-logo="",How Sweet Natok
-https://0uki2r61lp.guardstorage.net/hls_3/5EvZ8T-sR5drVGCKKMyHhRWDMxjD_ickRUbPZl_vq9wH8ZdR0tvHnOIOyrcU8Z2uUbJaQVb_nXJLQ9NRwqxsfA/index-f3-v1-a1.m3u8?sig=W1Kq6tSn5zHXRuDbj2mkdQ&expires=1762355254
 
 
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
