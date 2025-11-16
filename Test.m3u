@@ -38,7 +38,8 @@ https://wo.cma.footballii.ir/hls2/solh.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro Cricket 
-https://smart.bengaldigital.live/AstroCricket/index.m3u8
+#https://smart.bengaldigital.live/AstroCricket/index.m3u8
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro football
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
@@ -47,14 +48,14 @@ https://smart.bengaldigital.live/AstroFootball/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND-vs-PAK_old.jpg" group-title="Fancode-Cricket", India A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763345888~acl=/*~id=36948444863743181868704647829941~hmac=ef00ba7bf435c8cb0a35f6cdb007e44c89e075e76234d148aa8c049345e138c8
-
 #EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" group-title="Fancode-Cricket", England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies- 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138037_english_hls_55a209b1dd3460_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Day 4 vs Port Royal Golf Course - Southampton- Bermuda (Butterfield Bermuda Championship)
 https://bd-mc-fdlive.fancode.com/mumbai/137980_english_hls_a247f993ab74574_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND-vs-PAK_old.jpg" group-title="Fancode-Cricket", India A vs Pakistan Shaheens (ACC Asia Cup Rising Stars 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763345888~acl=/*~id=36948444863743181868704647829941~hmac=ef00ba7bf435c8cb0a35f6cdb007e44c89e075e76234d148aa8c049345e138c8
 
 
 
