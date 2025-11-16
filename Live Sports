@@ -39,8 +39,8 @@ https://wo.cma.footballii.ir/hls2/solh.m3u8
 #https://smart.bengaldigital.live/AstroCricket/index.m3u8
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro football
-https://smart.bengaldigital.live/AstroFootball/index.m3u8
-
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Willow sports 
+#https://smart.bengaldigital.live/AstroFootball/index.m3u8
+http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 
 
