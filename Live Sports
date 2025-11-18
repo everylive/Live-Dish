@@ -9,8 +9,8 @@ http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live PTV sports
-http://103.89.248.30:8082/PTV/tracks-v1/index.fmp4.m3u8?token=14f4a26cb10b20bce3287817260aac4e82a0c968-47f8be7503076a94f9d612cc26081407-1763408102-1763397302
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T sports
+http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=6b0b61a9dcd8b2964a72ae14100c2ee10f1a7d03-0a2c9b5bb9832b46d81b64f03722ac17-1763486055-1763475255
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE Football 
 
