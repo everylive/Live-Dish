@@ -43,12 +43,6 @@ http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 
 
 
-#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png" group-title="Fancode-Cricket", Ajman Titans vs Quetta Qavalry (Abu Dhabi T10- 2025)
-https://bd-mc-fdlive.fancode.com/mumbai/138207_english_hls_5230361d2f54310_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg" group-title="Fancode-Cricket", Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763605323~acl=/*~id=64287428542929092539044165585397~hmac=712ce524068af5fd55de4c5d065fff45263738cc21bd0ac212ced3658fe6355a
-
 #EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137583_5720_WOL-W_MUN-W_fc-web.jpg" group-title="Fancode-Football", VfL Wolfsburg Women vs Manchester United Women (UEFA Women's Champions League 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/137583_english_hls_04c50fde5622470_1ta-di_h264/index.m3u8
 
@@ -621,46 +615,17 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-http://116.204.149.16/t_sports/index.m3u8
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD 
-http://147.93.154.65/Bein3/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 1
-https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 2
-https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 3
-https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 4
-https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",A Sports
-https://stalker.tnm3us.workers.dev/30975.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 Hindi HD
-http://116.90.120.149:8000/play/a0bv/index.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD Hindi
-http://116.90.120.149:8000/play/a0cs/index.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3
-https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
-http://116.90.120.149:8000/play/a0cl/index.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.postimg.cc/KYVKwLhK/Star-Sports-Select-2-HD.jpg",Star Sports Select 2 HD
-http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 #EXTINF:-1 group-title="Sports" group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
 https://stalker.tnm3us.workers.dev/73037.m3u8
