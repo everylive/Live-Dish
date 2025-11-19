@@ -8,11 +8,9 @@ https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/inde
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports 2
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T sports
-http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=6b0b61a9dcd8b2964a72ae14100c2ee10f1a7d03-0a2c9b5bb9832b46d81b64f03722ac17-1763486055-1763475255
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE Football 
 
@@ -33,12 +31,11 @@ http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=6b0b61a9dcd8b2964a72ae1410
 
 
 #EXTINF:-1 group-title="LIVE Sports" 
+
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro Cricket 
-#https://smart.bengaldigital.live/AstroCricket/index.m3u8
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Willow sports 
-#https://smart.bengaldigital.live/AstroFootball/index.m3u8
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 
 
