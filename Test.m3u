@@ -10,11 +10,9 @@ https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/inde
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports 2
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T sports
-http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=6b0b61a9dcd8b2964a72ae14100c2ee10f1a7d03-0a2c9b5bb9832b46d81b64f03722ac17-1763486055-1763475255
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE Football 
 
@@ -35,22 +33,21 @@ http://103.89.248.30:8082/1LIVE/index.fmp4.m3u8?token=6b0b61a9dcd8b2964a72ae1410
 
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" 
+
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro Cricket 
-#https://smart.bengaldigital.live/AstroCricket/index.m3u8
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Willow sports 
-#https://smart.bengaldigital.live/AstroFootball/index.m3u8
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg" group-title="Fancode-Cricket", Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763605323~acl=/*~id=64287428542929092539044165585397~hmac=712ce524068af5fd55de4c5d065fff45263738cc21bd0ac212ced3658fe6355a
-
 #EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png" group-title="Fancode-Cricket", Ajman Titans vs Quetta Qavalry (Abu Dhabi T10- 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138207_english_hls_5230361d2f54310_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg" group-title="Fancode-Cricket", Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763605323~acl=/*~id=64287428542929092539044165585397~hmac=712ce524068af5fd55de4c5d065fff45263738cc21bd0ac212ced3658fe6355a
 
 #EXTINF:-1 group-title="Fancode", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup- 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138045_english_hls_ab706196a2229_1ta-di_h264/index.m3u8
