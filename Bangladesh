@@ -121,11 +121,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",Modina Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",IQRA Bangla
 https://cd198.anystream.uk:8082/hls/iq53la/8_7/index.m3u8?tkn=1306079480
-
-#EXTINF:-1 group-title="Religious" tvg-id="" tvg-logo="", Mov How Sweet
-http://160.187.56.254:8096/emby/videos/933007/original.mkv?DeviceId=8ecdd70f-d33c-4d44-b7e2-9fc874275811&MediaSourceId=mediasource_933007&PlaySessionId=7a7d4c10f54f41b395c979c9f122ab7f&api_key=3412335b1f8b4c3cb8d40ec4e95c2a40
 
