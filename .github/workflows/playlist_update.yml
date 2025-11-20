@@ -62,7 +62,7 @@ jobs:
       - name: 2. Download and Append Fancode Playlist (External Link)
         run: |
           EXTERNAL_URL="https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/main/playlist.m3u"
-          GROUP_TITLE="Fancode"
+          GROUP_TITLE="Live Sports"
           TEMP_FILE="fancode_temp.m3u"
 
           curl -L "$EXTERNAL_URL" -o "$TEMP_FILE"
