@@ -5,8 +5,7 @@ https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/inde
 
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports
-#http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
-https://tvsen7.aynaott.com/tsportshd/index.m3u8
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1136.ts
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports 2
 
@@ -34,7 +33,6 @@ https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 group-title="LIVE Sports" 
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro Cricket 
-http://103.240.44.26/Astro-Cricket/.fmp4.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Willow sports 
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
