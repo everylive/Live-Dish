@@ -44,11 +44,11 @@ http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 
 
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-VS-Al-Qadsiah-FC_old_1764346250168.jpg" group-title="Fancode-Football", Al-Ahli Saudi FC vs Al-Qadsiah FC (Saudi Kings Cup 2025-2026)
+https://bd-mc-fdlive.fancode.com/mumbai/138026_english_hls_07e5414ac061051_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Sprint Qualifying vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
 https://d3ebng79z9qao.cloudfront.net/out/v1/48d9b4db06304a1fad54a86327684df7/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138229_5763_QQY_ROC_fc-web_1763728589880.png" group-title="Fancode-Cricket", Royal Champs vs Quetta Qavalry (Abu Dhabi T10- 2025)
-https://bd-mc-fdlive.fancode.com/mumbai/138229_english_hls_02a1d89a1168511_1ta-di_h264/index.m3u8
 
 
 
