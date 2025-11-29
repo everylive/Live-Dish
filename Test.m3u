@@ -45,12 +45,6 @@ http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup- 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138059_english_hls_38216a413471243_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://images.fancode.com/aig/match/v1/138071_CASACARDS_APP.png" group-title="Fancode-Football", Real Valladolid vs Málaga (LALIGA Hypermotion 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138071_english_hls_11b2b8a49a35816_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130968_5427_ATL_RO_Web_1763971793807.jpg" group-title="Fancode-Football", Atletico de Madrid vs Real Oviedo (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/130968_english_hls_a38b696af539905_1ta-di_h264/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
