@@ -57,6 +57,9 @@ https://bd-mc-fdlive.fancode.com/mumbai/138266_english_hls_bc94c4cf6777896_1ta-d
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg" group-title="Fancode-Golf", Day 3 vs Sun City- South Africa (Nedbank Golf Challenge in honour of Gary Player)
 https://bd-mc-fdlive.fancode.com/mumbai/138674_english_hls_7b47ff6fec24460_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg" group-title="Fancode-Golf", Day 3 vs Albany GC (Hero World Challenge)
+https://bd-mc-fdlive.fancode.com/mumbai/138278_english_hls_c7b168298721699_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
