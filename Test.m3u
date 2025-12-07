@@ -54,6 +54,9 @@ https://de8b7342suh9u.cloudfront.net/out/v1/9cc25569a4144c088b891c592fbc5112/ind
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skechers-World-Champions-Cup_Old-Match-Card.png" group-title="Fancode-Golf", Day 3 vs United States (Skechers World Champions Cup)
 https://bd-mc-fdlive.fancode.com/mumbai/138682_english_hls_25039cbd9142924_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg" group-title="Fancode-Golf", Day 4 vs Albany GC (Hero World Challenge)
+https://bd-mc-fdlive.fancode.com/mumbai/138279_english_hls_3d11395b7578551_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
