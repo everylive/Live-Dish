@@ -45,6 +45,9 @@ http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ability-sports-league_old-match-card.jpg" group-title="Fancode-Cricket", Delhi Dominators vs Lucknow Stallions (Ability Sports League 2025)
 https://bd-mc-fdlive.fancode.com/mumbai/138702_english_hls_29eca8ba5533740_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-Qatar-web.jpg" group-title="Fancode-Cricket", Oman Women vs Qatar Women (Oman Women's T20I Triangular Series- 2025)
+https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138711_english_hls_ddee0c3bfe53480_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
