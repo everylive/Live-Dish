@@ -63,7 +63,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 
 #EXTINF:-1, tvg-id="", tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png", group-title="Bangladesh",Nagorik TV
-http://103.89.248.30:8082/NAGORIK-TV/index.fmp4.m3u8?token=bac426ed68632d2e7176f086b0d5eb9cdb4c7e92-37c44ae320914dc7b3b35fb59ba47ba2-1764366399-1764355599
+http://116.204.149.16/nagorik/index.m3u8
 
 #EXTINF:-1, tvg-id="33", tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f", group-title="Bangladesh",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
