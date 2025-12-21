@@ -50,6 +50,9 @@ https://bd-mc-fdlive.fancode.com/mumbai/138646_english_hls_4931acf80e81400_1ta-d
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130992_5427_GIR_ATL_fc-web_1765803333703.png" group-title="Fancode-Football", Girona FC vs Atletico de Madrid (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/130992_english_hls_b631c3db3053300_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130993_5427_VIL_BAR_fc-web_1765803339397.png" group-title="Fancode-Football", Villarreal CF vs FC Barcelona (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/130993_english_hls_ef1f00097140350_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
