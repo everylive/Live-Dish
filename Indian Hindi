@@ -285,8 +285,5 @@ https://bongoflixbd.top/test/live.php?id=zee_tv_hd&e=.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg", Sundarakanda
-http://160.187.56.254:8096/emby/videos/1005447/master.m3u8?DeviceId=2602cbaa-baac-443c-99da-267fb8694ab2&MediaSourceId=mediasource_1005447&StartTimeTicks=19405100000&PlaySessionId=0ed77b3d694548a09b47debc4f6b5d72&api_key=a781ce4ba5ff478392a9642ece8095bd&VideoCodec=hevc,h264,av1&AudioCodec=mp3,aac&VideoBitrate=6286000&AudioBitrate=224000&AudioStreamIndex=1&SubtitleStreamIndex=4&SubtitleMethod=Hls&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=3,4&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&hevc-codectag=hvc1,hev1,hevc,hdmv&TranscodeReasons=SubtitleCodecNotSupported#t=1940.51
-
 
 
