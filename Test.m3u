@@ -47,9 +47,6 @@ http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138924_5808_SYL_DC_fc-web_1766733054268.jpg" group-title="Fancode-Cricket", Sylhet Titans vs Dhaka Capitals (Bangladesh Premier League- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138924_english_hls_6196cf49e75704_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138814_5802_SYW_MAC_fc-web.jpg" group-title="Fancode-Football", Western Sydney Wanderers vs Macarthur (A League 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138814_english_hls_215d5a1a8d63379_1ta-di_h264/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
