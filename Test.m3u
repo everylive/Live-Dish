@@ -48,6 +48,9 @@ https://bd-mc-fdlive.fancode.com/mumbai/139162_english_hls_75c3a3338234094_1ta-d
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131008_5427_CEV_VAL_fc-web.png" group-title="Fancode-Football", RC Celta vs Valencia CF (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131008_english_hls_a37b79268a86819_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131000_5427_OSN_ATH_fc-web.png" group-title="Fancode-Football", CA Osasuna vs Athletic Club (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
