@@ -1,14 +1,14 @@
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live BD VS IND Football
-
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T-sports
+https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports
-https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
+#https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=7427820fbe0855e341dc76023d7240192c9c4571-19488f8f88ffd1bf047fc1de388b20ee-1768160191-1768156591
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live BPL
-https://s1.himelop-pro.top/live/bpl-op.m3u8
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T sports
 
@@ -35,6 +35,5 @@ https://s1.himelop-pro.top/live/bpl-op.m3u8
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro Cricket 
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Willow sports 
-https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 
