@@ -41,9 +41,6 @@ https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=7427820
 
 
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka, -2026-match-card-old-.png" group-title="Fancode-Cricket"- Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka- 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1768180736~acl=/*~id=17488846285144300947196624871338~hmac=046f3525d1968c1cffea16ec7e3876091a5078834f7b7eb6d69ed40c8dea0612
-
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs Real Madrid (SuperCopa 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/138959_english_hls_7f18fa356218568_1ta-di_h264/index.m3u8
 
@@ -175,7 +172,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 
 
-#EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
+#EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha Movie
+https://edge2.roarzone.info:8444/roarzone/bk/31/index.m3u8?token=9a52d71c94d78a25c9f058fa4abe65ee8a672143-9cffdcd7c5b545998e367d544fbdd6fa-1768160191-1768156591
 
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
@@ -187,7 +185,8 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla", tvg-id="", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE BANGLA
+#EXTINF:-1 group-title="Indian Bangla", tvg-id="", tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE BANGLA Chinema
+https://edge2.roarzone.info:8444/roarzone/bk/29/index.m3u8?token=bbf9e82ed18fb6c23e50e8543261ce2f9b08f187-1dee36755c473f2cd081c30fb10c9b1e-1768160191-1768156591
 
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 
