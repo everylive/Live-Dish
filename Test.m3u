@@ -53,6 +53,12 @@ https://bd-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20716176_1ta-d
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://images.fancode.com/aig/match/v1/139404_CASACARDS_APP.png" group-title="Fancode-Football", Auckland vs Sydney FC (A League 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/139404_english_hls_b659dcc8ba88796_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png" group-title="Fancode-Football", Brisbane Roar vs Central Coast Mariners (A League 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/139405_english_hls_8fec9786a391797_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png" group-title="Fancode-Live Events", Day 4 vs Delhi (Asian Rifle & Pistol Championship 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140322_english_hls_7871d97b5914503_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
