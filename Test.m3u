@@ -44,6 +44,9 @@ https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=7427820
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131063_5427_MRC_RB_FC-Web.png" group-title="Fancode-Football", RCD Mallorca vs Real Betis (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131063_english_hls_18b125469d63809_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://images.fancode.com/aig/match/v1770347072507/140421_CASACARDS_APP.png" group-title="Fancode-Football", Castellón vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140421_english_hls_ed15b8a1ce32885_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png" group-title="Fancode-Golf", Main Feed - Day 4 vs Pebble Beach Golf Links- Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140636_english_hls_20ce3a0acd64349_1ta-di_h264/index.m3u8
 
@@ -67,9 +70,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/140193_english_hls_0b8cd9bb0c16093_1ta-d
 
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png" group-title="Fancode-Tennis", Center Court vs Dallas- United States (ATP 500 - Nexo Dallas Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140540_english_hls_893261ee9183734_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131067_5427_LE_VAL_FC-Web.png" group-title="Fancode-Football", Levante vs Valencia CF (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/131067_english_hls_f593086cdd93529_1ta-di_h264/index.m3u8
 
 
 
