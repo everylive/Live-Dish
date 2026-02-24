@@ -53,6 +53,9 @@ https://bd-mc-fdlive.fancode.com/mumbai/140894_english_hls_b9a119fb0153672_1ta-d
 #EXTINF:-1 group-title="Live Sports", tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="Fancode-Tennis", Centre Court vs Dubai- United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140893_english_hls_416b1a365b26522_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="Fancode-Tennis", Court 4 vs Dubai- United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140895_english_hls_20ab64006b37531_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
