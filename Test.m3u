@@ -70,6 +70,12 @@ https://bd-mc-fdlive.fancode.com/mumbai/141242_english_hls_03fb55697861427_1ta-d
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Fancode-Tennis", F Court Feed vs Indian- United States (ATP Masters BNP Paribas Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/141241_english_hls_311fc8a66291546_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg" group-title="Fancode-Motorsports", Feature Race vs Melbourne  (F2 AUSTRALIA 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139545_english_hls_e21dfbffaa68887_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg" group-title="Fancode-Golf", Day 2 vs Magenta Shares Golf & Country Club (Australian Women's Classic 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140786_english_hls_dd639375ae3649_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
