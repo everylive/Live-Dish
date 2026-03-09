@@ -43,9 +43,6 @@ https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="Fancode-Cricket", Lightning Legends vs A&S Kolkata (Tillo Cup 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/141259_english_hls_e023413b4e84352_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Fancode-Tennis", C Court Feed vs Indian- United States (ATP Masters BNP Paribas Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/141247_english_hls_9b005c9c4c12083_1ta-di_h264/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
