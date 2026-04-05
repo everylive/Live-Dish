@@ -43,6 +43,12 @@ https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong, -China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="Fancode-Cricket"- Malaysia A vs Hong Kong- China-A (Hong Kong- China-A tour of Malaysia-A 2026)
 https://dai-partner.fancode.com/primary/141773_english_hls_d46873244215563_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg" group-title="Fancode-Cricket", Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141798_english_hls_bfdb85c65998161_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140928_5802_MLV_WEL_fc-web.jpg" group-title="Fancode-Football", Melbourne Victory vs Wellington Phoenix (A League 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/140928_english_hls_7336905fb139937_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
