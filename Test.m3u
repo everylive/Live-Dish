@@ -43,9 +43,6 @@ https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode-Cricket", Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141948_english_hls_81e187044a6532_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140731_5655_ANF_ETT_fc-web.jpg" group-title="Fancode-Football", Al-Nassr FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)
-https://dai-partner.fancode.com/primary/140731_english_hls_8250238c9753513_1ta-di_h264/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
