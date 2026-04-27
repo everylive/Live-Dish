@@ -46,14 +46,20 @@ https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 
 
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Fancode-Cricket", United Arab Emirates vs Oman (ICC CWC League 2- Nepal 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141977_english_hls_6a26a80dda27662_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode-Cricket", Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141955_english_hls_8a68800a2b61473_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg" group-title="Fancode-Cricket", New Zealand vs Bangladesh (New Zealand tour of Bangladesh- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142069_english_hls_6969e83ef889269_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode-Cricket", Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141953_english_hls_b2b8a92e164832_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode-Cricket", Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141954_english_hls_bdbd97203622308_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open, -ATP-1000-old--(1).png" group-title="Fancode-Tennis"- Day 6 - Main Feed vs Madrid- Spain (ATP Masters Mutua Madrid Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141862_english_hls_bd78cf604069614_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open, -ATP-1000-old--(1).png" group-title="Fancode-Tennis"- Day 6 - Arantxa Sanchez Stadium vs Madrid- Spain (ATP Masters Mutua Madrid Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141863_english_hls_af94cf330e7094_1ta-di_h264/index.m3u8
 
 
 
