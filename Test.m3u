@@ -3,11 +3,6 @@
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="tapmad-12717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17770349711020x576.jpg" ,Live Bangladesh vs New Zealand 
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_D-English/master.m3u8 
-
-#EXTINF:-1 group-title="Live Sports" tvg-id="tapmad-12717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17770349711020x576.jpg" ,Live Bangladesh vs New Zealand 2
-https://bd-mc-fblive.fancode.com/mumbai/142069_english_hls_6969e83ef889269_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T-sports
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
@@ -46,11 +41,8 @@ https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 
 
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142060_6045_RWA-W_NP-W_fc-web.jpg" group-title="Fancode-Cricket", Nepal Women vs Rwanda Women (ICC Women's T20I Challenge Trophy- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142060_english_hls_d7858907d99029_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="Fancode-Cricket", Sri Lanka Women vs Bangladesh Women (Sri Lanka Women's tour of Bangladesh- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142075_english_hls_ff58fd00087852_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142061_6045_ITA-W_VANW_fc-web.jpg" group-title="Fancode-Cricket", Vanuatu Women vs Italy Women (ICC Women's T20I Challenge Trophy- 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142061_english_hls_3fe2ad3b6062809_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open, -ATP-1000-old--(1).png" group-title="Fancode-Tennis"- Day 7 - Arantxa Sanchez Stadium vs Madrid- Spain (ATP Masters Mutua Madrid Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141865_english_hls_b5c399e3f592994_1ta-di_h264/index.m3u8
