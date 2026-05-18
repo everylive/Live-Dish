@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/inde
 
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T-sports
-https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
+http://103.59.176.72:8083/live1/video.m3u8?token=123
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T Sports
 
@@ -174,10 +174,10 @@ https://cd198.anystream.uk:8082/hls/iq53la/index.m3u8
 
 
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha Movie
-https://edge2.roarzone.info:8444/roarzone/bk/31/index.m3u8?token=9a52d71c94d78a25c9f058fa4abe65ee8a672143-9cffdcd7c5b545998e367d544fbdd6fa-1768160191-1768156591
+http://103.59.176.72:8083/live4/video.m3u8?token=123
 
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
-https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+http://103.59.176.72:8083/live2/video.m3u8?token=123
 
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD (Ads Only) 
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
