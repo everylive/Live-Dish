@@ -2,7 +2,7 @@ name: Auto Playlist Aggregator
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # প্রতি ৫ মিনিটে চলবে
+    - cron: "*/5 * * * *"  # প্রতি ৫ মিনিটে
   workflow_dispatch:        # চাইলে ম্যানুয়ালি চালানো যাবে
 
 jobs:
