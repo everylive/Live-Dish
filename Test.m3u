@@ -45,6 +45,9 @@ http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament, -2026_FC-WEB_1779005924089.jpg" group-title="Fancode-Cricket"- Speen Ghar Region vs Boost Region (Supercola Regional List A Tournament- 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142750_english_hls_4acbc9bcd087060_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="Fancode-MotoGP", Race Day vs Mugello (BREMBO GRAND PRIX OF ITALY 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139947_english_hls_4554592e3769929_1ta-di_h264/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
