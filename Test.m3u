@@ -45,9 +45,6 @@ http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143197_6110_CAN_NED_fc-web.jpg" group-title="Fancode-Cricket", Netherlands vs Canada (ICC CWC League 2 Canada- 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143197_english_hls_731bc37c0436515_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://images.fancode.com/aig/match/v1781104841605/143393_CASACARDS_APP.png" group-title="Fancode-Football", Málaga vs Las Palmas (LALIGA Hypermotion 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/143393_english_hls_e6589541ef46560_1ta-di_h264/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Bangladesh", tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd", tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", group-title="Bangladesh",BTV 
