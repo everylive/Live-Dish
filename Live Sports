@@ -15,6 +15,9 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE FIFA Somay TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE FIFA Zee bangla
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA Highlight 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
