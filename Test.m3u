@@ -24,10 +24,10 @@ http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA 4
-http://113.21.231.219:789/Tsports/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA 5
-http://103.179.25.147:8181/T-SPORTS-MADARCHOD/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA Highlight 
@@ -56,17 +56,11 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/540p-vtt/index.m
 
 
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg" group-title="Fancode-Cricket", Bangladesh vs Australia (Australia tour of Bangladesh- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143090_6102_CGS_BBS_FC-WEB.jpg" group-title="Fancode-Cricket", Chambal Ghariyals vs Bundelkhand Bulls (Madhya Pradesh League T20- 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143090_english_hls_5c62157d9d71013_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143089_6102_BL_MWS_FC-WEB.jpg" group-title="Fancode-Cricket", Bhopal Leopards vs Malwa Stallions (Madhya Pradesh League T20- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143089_english_hls_d13559f3b511673_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143182_6109_UPP_GTP_FC-WEB.jpg" group-title="Fancode-Cricket", Uppsala Tigers vs Gothenburg Phoenix (Nordic Smash T20 Cup- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143182_english_hls_009d3fe94475_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143038_6095_JJ_MM_fc-web.jpg" group-title="Fancode-Cricket", Jalandhar Jaguars vs Mohali Monsters (Punjab T10 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143183_6109_HMU_STY_FC-WEB.jpg" group-title="Fancode-Cricket", Stockholm United vs Stockholm City (Nordic Smash T20 Cup- 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143183_english_hls_f965b67ab165341_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Fancode-Tennis", Day 3 - World Feed vs Halle- Germany (ATP 500 - Terra Wortmann Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8
