@@ -55,6 +55,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/540p-vtt/index.m
 
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Astro Cricket 
 
-#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Willow sports 
-
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live sports cloud TV
+http://172.19.178.49:18190/t_sports/index.fmp4.m3u8?token=f8ae492c3f05c71a9a430bd6cfce8ee8e26143eb-88ec8caaf78b17d5eb65bd2e184b33a5-1781724383-1781713283
 
