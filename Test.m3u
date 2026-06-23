@@ -3,6 +3,8 @@
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
+#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live Toffee FIFA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782287049~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveUIquATxp7U9qRWDundJ4tY6Wt81zwiUKg_M6cokQk8OcgXmtq_uOMonQKGDQFPN5DepdypBkfFM8grz63CDAP
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live T-sports
 #http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
@@ -62,17 +64,8 @@ http://172.17.75.2:3255/TSportsHD_rc_nix/index.m3u8
 http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 
 
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png" group-title="Fancode-Cricket", Thailand vs Singapore (Asia Pacific Cricket Champions Trophy- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg" group-title="Fancode-Cricket", Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143422_6134_MW_KBB_FC-WEB.jpg" group-title="Fancode-Cricket", Mysore Warriors vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy- 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143422_english_hls_d467f052c451012_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143100_6102_CGS_RW_FC-WEB.jpg" group-title="Fancode-Cricket", Chambal Ghariyals vs Rewa Jaguars (Madhya Pradesh League T20- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143100_english_hls_8a8eca57b177773_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports", tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Day 2 vs Eastbourne- Great Britain (ATP 250 - Lexus Eastbourne Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8
