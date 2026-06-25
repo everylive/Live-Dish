@@ -72,32 +72,29 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 # Playlist Name: Asports Auto Update Playlist
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
-# Last Update: 09:01:15 PM 25-06-2026
+# Last Update: 11:15:55 PM 25-06-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629494769" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_5_Bad_Homburg_Open.jpg" group-title="Tennis", Day 5 - Bad Homburg Open [5]
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629494772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_1_WRC.jpg" group-title="Auto Racing", EKO Acropolis Rally Greece: Stage 1 - WRC [33006]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782486049-Kv4cPTAAP5YTi-2f286eaa417e071913ec18c692b599f4666c4eb3-372d97f31da2e266bed304bb761af2cd
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629494769" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_5_Bad_Homburg_Open.jpg" group-title="Tennis", Day 5 - Bad Homburg Open [5]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/33006/720p/chunks.m3u8?is_vip=false&token=1782494130-Kv4cPTAAP5YTi-8074e8de33b6af6cff3e9db9020aac305147fd34-bac9628567ff33f8a3fcc802eef24b6b
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629494772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_1_WRC.jpg" group-title="Auto Racing", EKO Acropolis Rally Greece: Stage 1 - WRC [33006]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=2f286eaa417e071913ec18c692b599f4666c4eb3&x-sign=439b0d021331b22716d8d3a511addee5&x-time=1782399600
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629494770" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Eastbourne_Open.jpg" group-title="Tennis", Day 4 - Unknown League [8]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/33006/720p/chunks.m3u8?is_vip=false&token=8074e8de33b6af6cff3e9db9020aac305147fd34&x-sign=4d2a41b885c648df4027e11f22c952d4&x-time=1782407700
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629496560" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Kansas City Royals vs Tampa Bay Rays - MLB [55835]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782486055-Kv4cPTAAP5YTi-2f286eaa417e071913ec18c692b599f4666c4eb3-091c8c2a08e995a3a7658187fa99570b
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629494770" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Eastbourne_Open.jpg" group-title="Tennis", Day 4 - Unknown League [8]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=8074e8de33b6af6cff3e9db9020aac305147fd34&x-sign=2015bb9b186189febb7ec0f30772abb9&x-time=1782407700
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629496568" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Seattle Mariners vs Pittsburgh Pirates - MLB [55836]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=2f286eaa417e071913ec18c692b599f4666c4eb3&x-sign=cfff6fe8ef4411b0b9d0f9dca36835f5&x-time=1782399600
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629496558" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Travelers_Championship_Main_Feed_%28First_Round%29_PGA_Tour_Golf.jpg" group-title="Golf", Travelers Championship: Main Feed (First Round) - PGA Tour Golf [510819]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=8074e8de33b6af6cff3e9db9020aac305147fd34&x-sign=982dde6f5218d880b63c6af1dede8323&x-time=1782407700
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629496571" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Cricket", West Indies vs Sri Lanka - 1st Test [490]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/510819/720p/chunks.m3u8?is_vip=false&token=2f286eaa417e071913ec18c692b599f4666c4eb3&x-sign=f40dbb4972215c1781c7e03e932adee4&x-time=1782399660
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629496557" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India_VS_Bangladesh_ICC_Women%27s_T20_World_Cup.jpg" group-title="Cricket", India vs Bangladesh - ICC Women's T20 World Cup [490]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=8074e8de33b6af6cff3e9db9020aac305147fd34&x-sign=9a68363d9ded4035480ce83552dfd045&x-time=1782407700
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629496572" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Cricket", South Africa vs Netherlands - ICC Women's T20 World Cup [20]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=2f286eaa417e071913ec18c692b599f4666c4eb3&x-sign=46190d4373c25b45202e322eb14afa57&x-time=1782399660
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629494771" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ukraine_VS_Italy_Nations_League.jpg" group-title="Volleyball", Ukraine vs Italy - Unknown League [68892]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=8074e8de33b6af6cff3e9db9020aac305147fd34&x-sign=f2e0de9cfb4612c808a893c91e755426&x-time=1782407700
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629496572" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Cricket", South Africa vs Netherlands - ICC Women's T20 World Cup [20]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782486072-Kv4cPTAAP5YTi-2f286eaa417e071913ec18c692b599f4666c4eb3-9891a852cf07a04c32c28ecf2877b64f
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629494771" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ukraine_VS_Italy_Nations_League.jpg" group-title="Volleyball", Ukraine vs Italy - Unknown League [68892]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=2f286eaa417e071913ec18c692b599f4666c4eb3&x-sign=9740241759b7eb49a352436ad2f299c7&x-time=1782399660
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782494151-Kv4cPTAAP5YTi-8074e8de33b6af6cff3e9db9020aac305147fd34-b1488b302fcd131316ef41febb25e0c0
 
 
 
