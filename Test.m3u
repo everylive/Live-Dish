@@ -72,35 +72,20 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 # Playlist Name: Asports Auto Update Playlist
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
-# Last Update: 08:01:19 AM 25-06-2026
+# Last Update: 10:30:49 AM 25-06-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629495822" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Houston Astros vs Toronto Blue Jays - MLB [55845]
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629494757" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/INKA_MMA_58_MMA.jpg" group-title="MMA", INKA MMA 58 - MMA [498587]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=183c68203a96111cc3bcc4505cf76a03a3ee368c&x-sign=2705b371322e70b273180c2fc7db8a27&x-time=1782352800
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629495762" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_Cubs_VS_New_York_Mets_MLB.jpg" group-title="Baseball", Chicago Cubs vs New York Mets - MLB [55837]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782448239-Kv4cPTAAP5YTi-cc2917795e6c65396c5cd40ca3c43e31b949c159-889967b781130e6ccbea61ade9627ce1
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629494757" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/INKA_MMA_58_MMA.jpg" group-title="MMA", INKA MMA 58 - MMA [498587]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=183c68203a96111cc3bcc4505cf76a03a3ee368c&x-sign=c3facee736cf41fae917476b17853de6&x-time=1782352800
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629495763" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona_Diamondbacks_VS_St._Louis_Cardinals_MLB.jpg" group-title="Baseball", Arizona Diamondbacks vs St. Louis Cardinals - MLB [55847]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=cc2917795e6c65396c5cd40ca3c43e31b949c159&x-sign=70ba1a3458d2ff1cd70e0b815c15f973&x-time=1782361800
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629494758" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Golden Eagles vs Shizuoka - NPB Farm Leagues [2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=183c68203a96111cc3bcc4505cf76a03a3ee368c&x-sign=e26b4b0d4901c087cf3d321177e75283&x-time=1782352800
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629496554" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Los Angeles Dodgers vs Minnesota Twins - MLB [55850]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782448246-Kv4cPTAAP5YTi-cc2917795e6c65396c5cd40ca3c43e31b949c159-bb46d38f4fbd83aa4e79ea6638be47bd
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629494758" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Golden Eagles vs Shizuoka - NPB Farm Leagues [2]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=183c68203a96111cc3bcc4505cf76a03a3ee368c&x-sign=340aca67f9c2e654a3fcb923775c409a&x-time=1782352800
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629495764" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta_Braves_VS_San_Diego_Padres_MLB.jpg" group-title="Baseball", Atlanta Braves vs San Diego Padres - MLB [55849]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55849/720p/chunks.m3u8?is_vip=false&token=183c68203a96111cc3bcc4505cf76a03a3ee368c&x-sign=6cec1b70da3d9b1e202be7fdb0fd27c4&x-time=1782352860
-#EXTINF:-1 group-title="Live Sports" tvg-id="1489407" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_South_Korea_World_Cup.jpg" group-title="Football", South Africa vs South Korea - World Cup [451]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782439269-Kv4cPTAAP5YTi-183c68203a96111cc3bcc4505cf76a03a3ee368c-57467108b2d6f0384ee39b471970fcc7
-#EXTINF:-1 group-title="Live Sports" tvg-id="1489407" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_South_Korea_World_Cup.jpg" group-title="Football", South Africa vs South Korea - World Cup [451]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=183c68203a96111cc3bcc4505cf76a03a3ee368c&x-sign=7ca191d2f20da0f62b03ca3a4cbcf500&x-time=1782352860
-#EXTINF:-1 group-title="Live Sports" tvg-id="1539010" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Czechia_VS_Mexico_World_Cup.jpg" group-title="Football", Czechia vs Mexico - World Cup [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782439275-Kv4cPTAAP5YTi-183c68203a96111cc3bcc4505cf76a03a3ee368c-d93d5bd91541322a0106cff70af7c520
-#EXTINF:-1 group-title="Live Sports" tvg-id="1539010" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Czechia_VS_Mexico_World_Cup.jpg" group-title="Football", Czechia vs Mexico - World Cup [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=183c68203a96111cc3bcc4505cf76a03a3ee368c&x-sign=526b398fce81f8fee56ac3ba0d6b0513&x-time=1782352860
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=cc2917795e6c65396c5cd40ca3c43e31b949c159&x-sign=8037c8b0807b78e860c52527db9d8212&x-time=1782361800
 
 
 
