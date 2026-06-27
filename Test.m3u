@@ -72,35 +72,47 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 # Playlist Name: Asports Auto Update Playlist
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
-# Last Update: 04:31:20 AM 28-06-2026
+# Last Update: 05:31:49 AM 28-06-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629499264" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Toronto_Blue_Jays_MLB.jpg" group-title="Baseball", Texas Rangers vs Toronto Blue Jays - MLB [55837]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=c9164fd3feadd3d073b10092d6b430700d9fc87e&x-sign=4cc6c4794f370db9127143ef8298b883&x-time=1782599400
 #EXTINF:-1 group-title="Live Sports" tvg-id="1629499265" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati_Reds_VS_Pittsburgh_Pirates_MLB.jpg" group-title="Baseball", Cincinnati Reds vs Pittsburgh Pirates - MLB [55838]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=c9164fd3feadd3d073b10092d6b430700d9fc87e&x-sign=8f337525e9a5aea589629b964fa03b64&x-time=1782599400
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629499266" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Chicago_White_Sox_MLB.jpg" group-title="Baseball", Kansas City Royals vs Chicago White Sox - MLB [55840]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=c9164fd3feadd3d073b10092d6b430700d9fc87e&x-sign=7df812be2b7c3c75a04492ceef506ab3&x-time=1782599400
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=a7b2cefe7eadf338d1d645d158a2dc74&x-time=1782603000
 #EXTINF:-1 group-title="Live Sports" tvg-id="1629499267" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia_Phillies_VS_New_York_Mets_MLB.jpg" group-title="Baseball", Philadelphia Phillies vs New York Mets - MLB [55839]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=c9164fd3feadd3d073b10092d6b430700d9fc87e&x-sign=a9821e338ac4733fc88abf1a729075f2&x-time=1782599460
-#EXTINF:-1 group-title="Live Sports" tvg-id="1489420" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Croatia_VS_Ghana_World_Cup.jpg" group-title="Football", Croatia vs Ghana - World Cup [451]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=3d22d15c30b82697e97df07321bed787&x-time=1782603000
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629499266" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Chicago_White_Sox_MLB.jpg" group-title="Baseball", Kansas City Royals vs Chicago White Sox - MLB [55840]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782685865-Kv4cPTAAP5YTi-c9164fd3feadd3d073b10092d6b430700d9fc87e-62f2cb0e1f9a0b92a8792c8c6b52c045
-#EXTINF:-1 group-title="Live Sports" tvg-id="1489420" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Croatia_VS_Ghana_World_Cup.jpg" group-title="Football", Croatia vs Ghana - World Cup [451]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=c9164fd3feadd3d073b10092d6b430700d9fc87e&x-sign=024421dd6ddda78539e90b5976498b32&x-time=1782599460
-#EXTINF:-1 group-title="Live Sports" tvg-id="1489422" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_England_World_Cup.jpg" group-title="Football", Panama vs England - World Cup [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782685871-Kv4cPTAAP5YTi-c9164fd3feadd3d073b10092d6b430700d9fc87e-38ef17b004598505c8d8701b3a0c3cff
-#EXTINF:-1 group-title="Live Sports" tvg-id="1489422" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_England_World_Cup.jpg" group-title="Football", Panama vs England - World Cup [2]
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c9164fd3feadd3d073b10092d6b430700d9fc87e&x-sign=293340a11c21fcce2012657ed8dc2d4e&x-time=1782599460
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=9e989722e54c0d03556f189e8b46fecd&x-time=1782603000
 #EXTINF:-1 group-title="Live Sports" tvg-id="1629499360" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Arizona Diamondbacks vs Tampa Bay Rays - MLB [55841]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=c9164fd3feadd3d073b10092d6b430700d9fc87e&x-sign=cfbd5bc4fd041c32ff32f691ebd7b8d5&x-time=1782599460
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=ea4dde9df9072113e6dbcfad21fb3950&x-time=1782603060
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629499361" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Washington Nationals vs Baltimore Orioles - MLB [55842]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=2896b7a031540b18b7215be227a64d1d&x-time=1782603060
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629499363" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Seattle Mariners vs Cleveland Guardians - MLB [55843]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=2ba2ba345b9190cd8d76a19fbeb0fc56&x-time=1782603060
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629499362" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Chicago Cubs vs Milwaukee Brewers - MLB [55845]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=b74f3d1839c15dd99152be89e9e24ff0&x-time=1782603060
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629499364" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Colorado Rockies vs Minnesota Twins - MLB [55844]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=4db58243af3669f5b1565148388cb446&x-time=1782603060
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629499365" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Miami Marlins vs St. Louis Cardinals - MLB [55846]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=51e148e6304886b9f404df886327d506&x-time=1782603060
+#EXTINF:-1 group-title="Live Sports" tvg-id="1489419" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia_VS_Portugal_World_Cup.jpg" group-title="Football", Colombia vs Portugal - World Cup [2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782689500-Kv4cPTAAP5YTi-c212bb2503066f617cf113108b203e973be1512e-9ec9e50ec3df8eabae69fab26ad412f3
+#EXTINF:-1 group-title="Live Sports" tvg-id="1489419" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia_VS_Portugal_World_Cup.jpg" group-title="Football", Colombia vs Portugal - World Cup [2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=9cea0dd0abbd5ba749c5c463aeb440e3&x-time=1782603060
+#EXTINF:-1 group-title="Live Sports" tvg-id="1539013" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Congo_DR_VS_Uzbekistan_World_Cup.jpg" group-title="Football", Congo DR vs Uzbekistan - World Cup [451]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782689505-Kv4cPTAAP5YTi-c212bb2503066f617cf113108b203e973be1512e-e6be43a1b4ca27662a982f0f9899b8e5
+#EXTINF:-1 group-title="Live Sports" tvg-id="1539013" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Congo_DR_VS_Uzbekistan_World_Cup.jpg" group-title="Football", Congo DR vs Uzbekistan - World Cup [451]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=c212bb2503066f617cf113108b203e973be1512e&x-sign=f4b4c61b8c3f6aac1c8d3bf07145038c&x-time=1782603060
 
 
 
