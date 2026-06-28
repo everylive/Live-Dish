@@ -1,6 +1,10 @@
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live 1
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
+#EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA Toffee 
+https://cdn-tt.pages.dev/ch1.m3u8
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782697396~Starts=1782610996~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=YHolwXLyqDoRDkFDFpVoWXK_YPSzEeCbMrIDrpqttGYbtvgICtTQfqUoLdPYtmjReB8WtcEXGWH9Y3rjfGEsBQ
+
 #EXTINF:-1 group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA Toffee 1
 https://cdn-tt.pages.dev/ch1.m3u8
 
