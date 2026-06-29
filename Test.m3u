@@ -4,8 +4,7 @@
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA Toffee 
-https://cdn-tt.pages.dev/ch1.m3u8
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782697396~Starts=1782610996~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=YHolwXLyqDoRDkFDFpVoWXK_YPSzEeCbMrIDrpqttGYbtvgICtTQfqUoLdPYtmjReB8WtcEXGWH9Y3rjfGEsBQ
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782833605~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclANWToPkzsX74Wa7Ucl8ufWgFUGf09fR3a7XvmW_XIPHNgpkvxP5bq2tsLmNzAbDKZhkTvgQiIMRltvj3snUYsK
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA Toffee 1
 https://cdn-tt.pages.dev/ch1.m3u8
@@ -76,17 +75,26 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 # Playlist Name: Asports Auto Update Playlist
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
-# Last Update: 09:15:41 PM 29-06-2026
+# Last Update: 10:45:50 PM 29-06-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629500136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_New_Zealand_3rd_Test.jpg" group-title="Cricket", England vs New Zealand - 3rd Test [490]
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629495335" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Basketball", Qatar vs Saudi Arabia - WC Qualification Asia [20]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=a80f6d500f12c01fab654d276997a48fa2a4155f&x-sign=47ed206ba6ef00141d1e6f0fbc58684d&x-time=1782746100
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629495334" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Basketball", Iran vs Syria - WC Qualification Asia [2]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782837929-Kv4cPTAAP5YTi-a5df95c1dc9762397821e4a63a4d18124371c960-b1f1618d9934ac26b8914d9df4d9abd3
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629495335" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Basketball", Qatar vs Saudi Arabia - WC Qualification Asia [20]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782832537-Kv4cPTAAP5YTi-a80f6d500f12c01fab654d276997a48fa2a4155f-fa680ea29c7faeb2be8e0ca8c9f36c3a
-#EXTINF:-1 group-title="Live Sports" tvg-id="1629495334" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Basketball", Iran vs Syria - WC Qualification Asia [2]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=a5df95c1dc9762397821e4a63a4d18124371c960&x-sign=b082577bbad1d3cd69290ff589779c2b&x-time=1782751500
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629495336" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Basketball", Iraq vs Jordan - WC Qualification Asia [9]
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a80f6d500f12c01fab654d276997a48fa2a4155f&x-sign=ee59514a271b9356135f82179514589b&x-time=1782746100
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782837935-Kv4cPTAAP5YTi-a5df95c1dc9762397821e4a63a4d18124371c960-76dc682670e7b7ac097fa7260d94c11e
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629495336" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Basketball", Iraq vs Jordan - WC Qualification Asia [9]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=a5df95c1dc9762397821e4a63a4d18124371c960&x-sign=66f52a95469c24dd1d6c57ce7bf1a137&x-time=1782751500
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629495337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="Football", Brazil vs Japan - Unknown League [2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782837947-Kv4cPTAAP5YTi-a5df95c1dc9762397821e4a63a4d18124371c960-2e2160e55c6fd69562064267d796dc77
+#EXTINF:-1 group-title="Live Sports" tvg-id="1629495337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg" group-title="Football", Brazil vs Japan - Unknown League [2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a5df95c1dc9762397821e4a63a4d18124371c960&x-sign=c7449ff25f4e35f300b712a11f7a4fc0&x-time=1782751500
 
 
 
