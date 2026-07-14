@@ -22,7 +22,7 @@ http://103.165.93.31:8095/btv/video.m3u8
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA 1
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA 2
-http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 
 #EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE FIFA Somay TV 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
