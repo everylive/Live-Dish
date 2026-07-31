@@ -153,47 +153,42 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 6:02:28 PM 31-07-2026
+#last update time: 8:32:29 PM 31-07-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Melbourne%20Storm.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Melbourne Storm - NRL Rugby
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Singapore.jpg" group-title="LIVE", Vietnam vs Singapore - ASEAN Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1785585749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6836ad3125cfbf82d38a4b419816c29a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4bca129a1d202ef6f584b2/chunks.m3u8?is_vip=false&token=1785594751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fdc59c521195bfbe016a0d3f35bada7d
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Torrens%20Birkalla%20Women%20vs%20Adelaide%20University%20Women.jpg" group-title="LIVE", West Torrens Birkalla Women vs Adelaide University Women - AUS-S Women's Premier League
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tobol%20Kostanai%20B%20vs%20FC%20Shakhtyor%20Karagandy.jpg" group-title="LIVE", Tobol Kostanai B vs FC Shakhtyor Karagandy - KAZ Division 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6bfa9ebd8b5851509411f9/chunks.m3u8?is_vip=false&token=1785585751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-caa2e7a1a39d4850e947a04575364028
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4a787ed06bfc509447b8cb/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=8ce416a1895e2b6d734f387de03754e9&x-time=1785508320
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Henan%20vs%20Dalian%20Young%20Boy.jpg" group-title="LIVE", Henan vs Dalian Young Boy - China Super League
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20of%20Denmark%20%20Stage%203.jpg" group-title="LIVE", Tour of Denmark | Stage 3 - UCI Pro Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4bca129a1d202ef6f584b0/chunks.m3u8?is_vip=false&token=1785585753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ccdc9ad136658d33e39cc179891ea4f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1785594755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2df3b41f172e08b4aa0c32dc54b799d2
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Loudi%20Team%20vs%20Xiangtan%20Team.jpg" group-title="LIVE", Loudi Team vs Xiangtan Team - HNFL
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%208.jpg" group-title="LIVE", Secto Rally Finland: Stage 8 - WRC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6287f5945e9dbcc7302fee/chunks.m3u8?is_vip=false&token=1785585755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3b74769efd9ce7205f42e768bdc16792
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785594758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7fb30ba4fa541f2312fec13606876dcd
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Changsha%20Team%20vs%20Xiangxi%20Team.jpg" group-title="LIVE", Changsha Team vs Xiangxi Team - HNFL
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spartak%20Moscow%20U19%20vs%20Dynamo%20Moscow%20U19.jpg" group-title="LIVE", Spartak Moscow U19 vs Dynamo Moscow U19 - Russia Youth Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6287f5945e9dbcc7302fef/chunks.m3u8?is_vip=false&token=1785585756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-239ce53223a9972656066015faf0a8d2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4bca129a1d202ef6f584aa/chunks.m3u8?is_vip=false&token=1785594762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5e8d2aaf0f36eb90c444d0a24e921912
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%206.jpg" group-title="LIVE", Secto Rally Finland: Stage 6 - WRC
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Super%20Giants%20vs%20Rockets.jpg" group-title="LIVE", Super Giants vs Rockets - The Hundred Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785585758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8146e2ea7ae1ea2c8a6e870056d39986
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785594763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-095899855d15f458f3752845fd89a7c5
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lokomotiv%20Moscow%20U19%20vs%20FC%20Nizhny%20Novgorod%20U19.jpg" group-title="LIVE", Lokomotiv Moscow U19 vs FC Nizhny Novgorod U19 - Russia Youth Championship
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%209.jpg" group-title="Auto Racing", Secto Rally Finland: Stage 9 - WRC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4bca129a1d202ef6f584ab/chunks.m3u8?is_vip=false&token=1785585760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fa899b232124e338bbbfe53d5916daf
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Drukpa%20FC%20vs%20BFF%20Academy%20U19.jpg" group-title="LIVE", Drukpa FC vs BFF Academy U19 - BHU Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a650ec9bb875b4ddfe8b2ed/chunks.m3u8?is_vip=false&token=1785585761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-75feeee26a19ae01815fe8558f2e19fa
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785594766-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a24644ab05aef13dec5151e06d67c02
 
 
 
