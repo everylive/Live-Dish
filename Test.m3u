@@ -153,67 +153,67 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:17:26 PM 01-08-2026
+#last update time: 10:17:23 PM 01-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20Fire.jpg" group-title="LIVE", Phoenix vs Fire - The Hundred
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785683847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fea4f32c070e458044297d08f6682ace
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785687444-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f3fd1afa101412b5eb629fd6a087f38d
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%201.jpg" group-title="LIVE", Tour de France Femmes - Stage 1 - UCI Women's World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1785683850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b9bbfc3810743fd48c7e71e9d83bd49b
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tranmere%20vs%20Rochdale.jpg" group-title="LIVE", Tranmere vs Rochdale - England EFL Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147275/chunks.m3u8?is_vip=false&token=1785683851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e9de57f3a5fb4eb80721f42cf1602d0e
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falkirk%20vs%20St%20Mirren.jpg" group-title="LIVE", Falkirk vs St Mirren - Scotland Premiership [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147276/chunks.m3u8?is_vip=false&token=1785683853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-916c63a6d0c0c376fc381d09e8e388c5
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falkirk%20vs%20St%20Mirren.jpg" group-title="LIVE", Falkirk vs St Mirren - Scotland Premiership [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147276-hd/chunks.m3u8?is_vip=false&token=1785683854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-259e24ff5160f4c5695776c34fd83d15
+https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1785687448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc2ed2166ea746043d9f7920261fb2e9
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Semifinals.jpg" group-title="LIVE", Semifinals - Western Amateur Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/136433/720p/chunks.m3u8?is_vip=false&token=1785683855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-46d196d62ff6a9abc0b57126a29beea6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/136433/720p/chunks.m3u8?is_vip=false&token=1785687450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1678a5c5bfadf121c7a765e87735f3cb
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2017.jpg" group-title="LIVE", Secto Rally Finland: Stage 17 - WRC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785683857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ac2f2df09fd5baf3907056dda8b4c37
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785687452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf2f91193928f1167b96386a5e664b1c
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WSG%20Swarovski%20Tirol%20vs%20SK%20Sturm%20Graz.jpg" group-title="LIVE", WSG Swarovski Tirol vs SK Sturm Graz - Austria Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf630392eaef43e132a/chunks.m3u8?is_vip=false&token=1785683863-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad93bb8ab57507ca1edeaf41bb69e46d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf630392eaef43e132a/chunks.m3u8?is_vip=false&token=1785687458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-18a801315f91c8b3532133631700a9ec
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PRELIMS.jpg" group-title="LIVE", PRELIMS - UFC FIGHT NIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1785683864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81ab2c3ac3bf2faa4b3250c72050ba0a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1785687460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-64fc7a2c59a70512506afabd082b8eec
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lions%20vs%20Bulls.jpg" group-title="LIVE", Lions vs Bulls - Currie Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1785683866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25bd400fc24a4ba8929ab9c7aa0c2fbb
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1785687462-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-93e839c03f2cd37771956ad1e246e658
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FK%20Gomel%20vs%20FC%20Vitebsk.jpg" group-title="LIVE", FK Gomel vs FC Vitebsk - Belarus Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147296/chunks.m3u8?is_vip=false&token=1785683867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3e3ff12c6126d71c22496c74827acbc3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147296/chunks.m3u8?is_vip=false&token=1785687464-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eaa662af12d61d27990b5de0cf0b1aa4
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brave%20CF%20Burgas%2C%20Bulgaria.jpg" group-title="LIVE", Brave CF: Burgas, Bulgaria - Brave CF
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wieczysta%20Krakow%20vs%20Lech%20Poznan.jpg" group-title="LIVE", Wieczysta Krakow vs Lech Poznan - Poland Ekstraklasa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1785683869-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1dd22cae640912414edb516f2457cd5e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b5851501472e7/chunks.m3u8?is_vip=false&token=1785687466-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd9b21dab546434289e81656780ece12
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dynamo%20Makhachkala%20vs%20Lokomotiv%20Moscow.jpg" group-title="LIVE", Dynamo Makhachkala vs Lokomotiv Moscow - Russia Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf630392eaef43e132d-fhd/chunks.m3u8?is_vip=false&token=1785687468-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81a59538eaf3eebb88e3611a233de8dc
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2018.jpg" group-title="LIVE", Secto Rally Finland: Stage 18 - WRC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785687472-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f189fe23e078de48fce06d44be26b93
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Round%203.jpg" group-title="LIVE", Round 3 - AIG Women's Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1785687474-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fbc4cec6b7f85f48fa3519c52f0b8cb7
 
 
 
