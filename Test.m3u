@@ -153,37 +153,57 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:17:32 PM 03-08-2026
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%203.jpg" group-title="LIVE", Tour de France Femmes - Stage 3 - UCI Women's World Tour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1785860253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-40b7185cef92d61f6424df88307a28b5
+#last update time: 12:17:26 AM 04-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785860255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5f66d1c6d0775d25e69bef5f4864173
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785867448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f2060546625db0639a3f0e2e273c82d
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fire%20vs%20Brave.jpg" group-title="LIVE", Fire vs Brave - The Hundred Women
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maccabi%20Kabilio%20Jaffa%20vs%20Ashdod%20MS.jpg" group-title="LIVE", Maccabi Kabilio Jaffa vs Ashdod MS - ISR Ligat Leumit Toto Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1785860256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3c58ffafef7503dec3f037038032a7bd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5761318cb9e8c43b2be2c2/chunks.m3u8?is_vip=false&token=1785867450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fdb2ff6f239ba246848921753f73f3e7
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Diane%20Parry%20vs%20%20Kayla%20Day.jpg" group-title="LIVE", Diane Parry vs  Kayla Day - WTA Toronto
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kafr%20Qasim%20vs%20Bnei%20Yehuda.jpg" group-title="LIVE", Kafr Qasim vs Bnei Yehuda - ISR Ligat Leumit Toto Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510515/720p/chunks.m3u8?is_vip=false&token=1785860257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d55744b2be4a8ac0cbf49e11a1cd2ff3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5761318cb9e8c43b2be2c4/chunks.m3u8?is_vip=false&token=1785867452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf6b192a4a0515a536321241317b1e48
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jessica%20Pegula%20vs%20Alexandra%20Eala%20-%20%20Final.jpg" group-title="LIVE", Jessica Pegula vs Alexandra Eala -  Final - Washington open
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cracovia%20Krakow%20vs%20Pogon%20Szczecin.jpg" group-title="LIVE", Cracovia Krakow vs Pogon Szczecin - Poland Ekstraklasa [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1785860263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4e02e3a979329bd0af26a7f47b32ee63
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182/chunks.m3u8?is_vip=false&token=1785867455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ef6ca56c6e20483a485f4d7b54391c53
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zalaegerszegi%20TE%20vs%20Paksi%20FC.jpg" group-title="LIVE", Zalaegerszegi TE vs Paksi FC - HUN Fizz Liga
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cracovia%20Krakow%20vs%20Pogon%20Szczecin.jpg" group-title="LIVE", Cracovia Krakow vs Pogon Szczecin - Poland Ekstraklasa [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b58515014729d/chunks.m3u8?is_vip=false&token=1785860265-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-85a3d36ceb06cee84076a85e853f24d4
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182-fhd/chunks.m3u8?is_vip=false&token=1785867456-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c069575d0cfc5888499b03d14534d18d
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vojvodina%20Novi%20Sad%20vs%20Macva%20Sabac.jpg" group-title="LIVE", Vojvodina Novi Sad vs Macva Sabac - SER Mozzart Bet Superliga [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1b6/chunks.m3u8?is_vip=false&token=1785867460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f205a5572c924bcf53aae5d31a4f9730
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vojvodina%20Novi%20Sad%20vs%20Macva%20Sabac.jpg" group-title="LIVE", Vojvodina Novi Sad vs Macva Sabac - SER Mozzart Bet Superliga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1b6-fhd/chunks.m3u8?is_vip=false&token=1785867461-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fbeb9cf4e42ce9b378e3bb1c072d9f4
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fire%20vs%20Brave.jpg" group-title="LIVE", Fire vs Brave - The Hundred
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1785867465-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27eb039a022ddf7ce56b1dbf7cb53870
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor%20Fritz%20vs%20Rafael%20Jodar%20-%20Final.jpg" group-title="LIVE", Taylor Fritz vs Rafael Jodar - Final - Washington open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1785867467-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bfa5ada2134368754b293e7205669069
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Celtic%20vs%20Dundee.jpg" group-title="LIVE", Celtic vs Dundee - Scotland Premiership
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-hd/chunks.m3u8?is_vip=false&token=1785867469-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ba3033f220fdd99088098fff0a8631b
 
 
 
