@@ -153,42 +153,27 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:32:28 PM 04-08-2026
+#last update time: 1:02:31 AM 05-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785951149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b8bdd176ab379e9e404ea8e2b14b57e
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Spirit.jpg" group-title="LIVE", Leeds vs Spirit - The Hundred Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1785951151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f428339afe26750267ea2d6569a5dd4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785956553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27363cb0dd35ea49dba668dcc34d928e
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup%201.jpg" group-title="LIVE", Rogers Cup 1 - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1785951153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7284d69d7c77dca2f7c73914ab53daa2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1785956554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0bd5a983c37a43ebc59b1cdad1b81d70
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup%202.jpg" group-title="LIVE", Rogers Cup 2 - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/270371/720p/chunks.m3u8?is_vip=false&token=1785951155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7376cb94f407ba39abeaa5d7ab425a8d
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Duncan%20Chan%20vs%20Thiago%20Agustin%20Tirante.jpg" group-title="LIVE", Duncan Chan vs Thiago Agustin Tirante - Rogers Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510511/720p/chunks.m3u8?is_vip=false&token=1785951156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af23ffe74be29884a38d30415e14dcdf
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adam%20Walton%20vs%20%20Jenson%20Brooksby.jpg" group-title="LIVE", Adam Walton vs  Jenson Brooksby - Rogers Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510512/720p/chunks.m3u8?is_vip=false&token=1785951158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e46592aaaaeee22bf2b738c30f2033a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/270371/720p/chunks.m3u8?is_vip=false&token=1785956556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d4468c28bb0fd876764844502f781f7
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Spirit.jpg" group-title="LIVE", Leeds vs Spirit - The Hundred
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1785951159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f02729da141bfdb4d54fbca8f6c0f14
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1785956558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-896496257525edafdae3809c7e13940a
 
 
 
