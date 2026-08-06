@@ -4,148 +4,42 @@
 https://raw.githubusercontent.com/everylive/My-TV-Store/refs/heads/main/ads/index.m3u8
 
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 1
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 2
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FBTV%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 2
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 3
-http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 3 
+https://s2.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Ften_cricket_576%2Ften_cricket_576.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 4
-http://103.165.93.31:8095/tsports/video.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 4  
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 5
-http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 5
+https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 6
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2Ftv.bdixbd.net%2Ftracks-v1a1a2%2Fmono.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 6
+https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 7
-http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 7
+http://66.102.126.10:8000/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 8
-https://cdn-tt.pages.dev/ch3.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 8
+http://66.102.126.10:8000/play/a018/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 9
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 9
+https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 10
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 10
+https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 11
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 11
+https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 12
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F172.16.32.2%2FSOMOY-TV-SD-3Mb%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 group-title="Live Sports"  tvg-logo=“https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png”,group-title="Live Sports",Live Sports 12
+https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 13
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 14
-http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 15
-http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 16
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FPTV%2Ftracks-v1a1%2Fmono.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 17
-http://114.130.57.233:8080/unitedsports-bdixbd.net/video.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 18
-http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa 19
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa
-http://157.15.187.3:25092/hls/49/49.m3u8
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-eFootball World Cup 2026 | SHAHRIYAR LIVE TV
-1757112807302.jpg" group-title="Football World Cup 2026",http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIfa
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live fifa Soco TV
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
-
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA T-Sports
-http://103.165.93.31:8095/tsports/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA PTV
-http://103.165.93.31:8095/ptv/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA somay TV
-http://103.165.93.31:8095/somoyTv/index.m3u8
-
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA BTV
-http://103.165.93.31:8095/btv/video.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA 1
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FIFA 2
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE FIFA Somay TV 2
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE FIFA Zee bangla
-
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png",  LIVE FIFA3
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA 4
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA 5
-
- 
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA 6
-http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA 7
-
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA Highlight 
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", FIFA Highlight 2
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/540p-vtt/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" 
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" 
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", 
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", 
-
-
-
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" 
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FTP Server 1
-http://172.17.75.2:3255/TSportsHD_rc_nix/index.m3u8
-
-#EXTINF:-1 group-title="Live Sports" group-title="LIVE Sports" tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png", Live FTP server 2 
-http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 
 
 
@@ -153,32 +47,22 @@ http://172.17.75.2:3255/TSportsHD_sf_bdix/index.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:32:31 PM 06-08-2026
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Justina%20Mikulskyte%20vs%20Gabriela%20Knutson.jpg" group-title="LIVE", Justina Mikulskyte vs Gabriela Knutson - WTA Warsaw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a735f4f497eb195e8b43c65/chunks.m3u8?is_vip=false&token=1786097846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-010543599c3f0fd9000551fd7a054288
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Queensland%20Cowboys%20vs%20Gold%20Coast%20Titans.jpg" group-title="LIVE", North Queensland Cowboys vs Gold Coast Titans - NRL Rugby
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786102354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-200a02192d2f893b48954bd091620abf
+#last update time: 6:47:24 PM 06-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES2%2C%20Tour%20of%20Poland%2C%20Stage%204.jpg" group-title="LIVE", ES2, Tour of Poland, Stage 4 - UCI World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786102356-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-70e45ee448bd777a3d8d0108527de53c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786106845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1d0f7dd6d0d71f14fdbd50892fca13bf
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mona%20Barthel%09vs%20Elizara%20Yaneva.jpg" group-title="LIVE", Mona Barthel	vs Elizara Yaneva - WTA Warsaw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a73a5165b66f43e592393be/chunks.m3u8?is_vip=false&token=1786102357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5ce599eedc7de996de5a39fc2ab90f8
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a73a5165b66f43e592393be/chunks.m3u8?is_vip=false&token=1786106847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00c4a1dac45c41c239ba681597408633
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wyndham%20Championship.jpg" group-title="LIVE", Wyndham Championship - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/411/720p/chunks.m3u8?is_vip=false&token=1786102359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb17a421191e46b50d971d90a632cb31
+https://livecdn-tc-iptv.rumsport10.live/live_abr/411/720p/chunks.m3u8?is_vip=false&token=1786106849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8b3c47fc6ca4eab93633399e7d1d900f
 
 
 
