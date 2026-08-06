@@ -47,22 +47,27 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:02:32 PM 06-08-2026
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES2%2C%20Tour%20of%20Poland%2C%20Stage%204.jpg" group-title="LIVE", ES2, Tour of Poland, Stage 4 - UCI World Tour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786107753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-beae6a01fc9c2811e657399a4082fe63
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mona%20Barthel%09vs%20Elizara%20Yaneva.jpg" group-title="LIVE", Mona Barthel	vs Elizara Yaneva - WTA Warsaw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a73a5165b66f43e592393be/chunks.m3u8?is_vip=false&token=1786106847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00c4a1dac45c41c239ba681597408633
+#last update time: 9:17:41 PM 06-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wyndham%20Championship.jpg" group-title="LIVE", Wyndham Championship - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/411/720p/chunks.m3u8?is_vip=false&token=1786107757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92b510de17bbdae26012d12b92f176c0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/411/720p/chunks.m3u8?is_vip=false&token=1786113159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b174e2440777833e0968585285a0327
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%206.jpg" group-title="LIVE", Tour de France Femmes - Stage 6 - UCI Women's World Tour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786113160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-872f430cbeb0c9f32de969b1129c2d0f
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 2nd Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786113162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b6023e7ef05e36c0ba50d45fd0918a11
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spirit%20vs%20MI%20London.jpg" group-title="LIVE", Spirit vs MI London - The Hundred Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786113164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5d203ebe097f534345ea9bab12c25b4
 
 
 
