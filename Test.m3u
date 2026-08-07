@@ -47,72 +47,67 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:32:27 PM 07-08-2026
+#last update time: 8:32:28 PM 07-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ireland%20vs%20Afghanistan.jpg" group-title="LIVE", Ireland vs Afghanistan - 2nd ODI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786195948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-61674baf996b1839634fc572f6f14d75
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786199549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-457ede65b20ab255417a0a6c8acd77f8
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES2%2C%20Tour%20of%20Poland%2C%20Stage%205.jpg" group-title="LIVE", ES2, Tour of Poland, Stage 5 - UCI World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786195952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-95fa6a2573512e7a45caea06dacc26c4
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China%20U17%20vs%20River%20Plate%20U17.jpg" group-title="LIVE", China U17 vs River Plate U17 - Shanghai Future Star Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74623108a0398647649b10/chunks.m3u8?is_vip=false&token=1786195953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3eb907cda21e3ad053c58221ac34ffc
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shanghai%20U17%20vs%20Arsenal%20U17.jpg" group-title="LIVE", Shanghai U17 vs Arsenal U17 - Shanghai Future Star Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74623108a0398647649b11/chunks.m3u8?is_vip=false&token=1786195956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5fdcc05ecb2f9a7901fac0c2065fbab9
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yueyang%20Team%20vs%20Xiangtan%20Team.jpg" group-title="LIVE", Yueyang Team vs Xiangtan Team - HNFL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62ea58bd8b585150225ad5/chunks.m3u8?is_vip=false&token=1786195957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-93cdb6b05a776a5eee18fbbb84272313
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20vs%20Aston%20Villa.jpg" group-title="LIVE", Bayern Munich vs Aston Villa - Elite Club Friendlies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003963/chunks.m3u8?is_vip=false&token=1786195959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-be8def32aee43a207f9025c8cd2f0d02
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ziyun%20No.3%20Middle%20School%20vs%20Qinglong%20County.jpg" group-title="LIVE", Ziyun No.3 Middle School vs Qinglong County - Guizhou Wufeng Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d05dff9adb7bf718386cd/chunks.m3u8?is_vip=false&token=1786195966-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-946c8e5691c3d43a6e0549939a91d731
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786199551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d6a6e30745a3f22494abea14a9c37085
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Singapore%20vs%20Indonesia.jpg" group-title="LIVE", Singapore vs Indonesia - ASEAN Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003962/chunks.m3u8?is_vip=false&token=1786195967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c49b7059cf21664054e4a03ccf3b1dfa
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003962/chunks.m3u8?is_vip=false&token=1786199553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a63e23eef43f6b4f073f77ea84c23eb
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Singapore%20vs%20Indonesia.jpg" group-title="LIVE", Singapore vs Indonesia - ASEAN Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003962/chunks.m3u8?is_vip=false&token=1786195968-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-128a7f83dcfe9cad9ee3f047b59a475e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003962/chunks.m3u8?is_vip=false&token=1786199555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f839daac426139ce69bf4b298ea7effc
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Cambodia.jpg" group-title="LIVE", Vietnam vs Cambodia - ASEAN Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003961/chunks.m3u8?is_vip=false&token=1786195969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62067c4065284b5c8bab900b7850569c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003961/chunks.m3u8?is_vip=false&token=1786199556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14cd54ab677057d3a4f21b9e6adb2a2a
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Cambodia.jpg" group-title="LIVE", Vietnam vs Cambodia - ASEAN Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003961/chunks.m3u8?is_vip=false&token=1786195970-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14050d49d42c73f559a1113e6bbc1d48
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003961/chunks.m3u8?is_vip=false&token=1786199557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55fa9b1459067683d195bae679a474e9
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%207.jpg" group-title="LIVE", Tour de France Femmes - Stage 7 - UCI Women's World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786195971-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-07f9904a61b8842f487b3488443af63d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786199559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-710a9b4cb20bec97c3c46f4411d6560d
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20Leeds.jpg" group-title="Cricket", Phoenix vs Leeds - The Hundred Women
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rostov%20U19%20vs%20Zenit%20St%20Petersburg%20U19.jpg" group-title="LIVE", Rostov U19 vs Zenit St Petersburg U19 - Russia Youth Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786195974-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bdd1c8815930abf011f425622f26c65b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e00395a/chunks.m3u8?is_vip=false&token=1786199561-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01e07f6d3e674d8e92d635b44f46d804
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CSKA%20Moscow%20U19%20vs%20Dinamo-Makhachkala%20U19.jpg" group-title="LIVE", CSKA Moscow U19 vs Dinamo-Makhachkala U19 - Russia Youth Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e00395d/chunks.m3u8?is_vip=false&token=1786199563-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e4ef01d275188efb984b4b765baac8df
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chertanovo%20U19%20vs%20Rubin%20Kazan%20U19.jpg" group-title="LIVE", Chertanovo U19 vs Rubin Kazan U19 - Russia Youth Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e00395e/chunks.m3u8?is_vip=false&token=1786199564-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a8ac786df53dd8137da5853e48f23b07
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fakel%20Voronezh%20U19%20vs%20Spartak%20Moscow%20U19.jpg" group-title="LIVE", Fakel Voronezh U19 vs Spartak Moscow U19 - Russia Youth Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e00395b/chunks.m3u8?is_vip=false&token=1786199566-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2395773ca42363abdfe388db6117261b
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20Leeds.jpg" group-title="LIVE", Phoenix vs Leeds - The Hundred Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786199568-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45af04d1cb9158c0033ac98e84ac88c8
 
 
 
