@@ -47,32 +47,42 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:17:26 AM 11-08-2026
+#last update time: 5:47:26 AM 11-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="LIVE", Rogers Cup - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786490247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-afd7931a0e47ba66a26dbd9de5391fab
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786492047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3432d3ceea733f1f89a0f5e043fd0c81
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Banfield%20vs%20Belgrano%20Cordoba.jpg" group-title="LIVE", Banfield vs Belgrano Cordoba - Liga Profesional Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f92157b14e876daa2106/chunks.m3u8?is_vip=false&token=1786490251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-026733c986a2f8fdd8e41be8cc5bd694
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f92157b14e876daa2106/chunks.m3u8?is_vip=false&token=1786492049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f80d1ce140b1b5d3ccfe7c0ca620e91
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Diana%20Shnaider%20vs%20Iga%20Swiatek.jpg" group-title="LIVE", Diana Shnaider vs Iga Swiatek - Rogers Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786492058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f7f51a27c1fc98767d174ed0b929c23c
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20Red%20Sox%20vs%20Toronto%20Blue%20Jays.jpg" group-title="LIVE", Boston Red Sox vs Toronto Blue Jays - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1786490259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9da1d29bd206f14cf6b216dc814d344c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1786492060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-57cb198c7ffd4ca415f17448549c64c8
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Atlanta%20Braves.jpg" group-title="LIVE", New York Mets vs Atlanta Braves - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1786490261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00d788a5f89ba929d5805f349d5b7760
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1786492061-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34c081a650d3f987e4dfeffd169f2808
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20St.%20Louis%20Cardinals.jpg" group-title="Baseball", Philadelphia Phillies vs St. Louis Cardinals - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baltimore%20Orioles%20vs%20Minnesota%20Twins.jpg" group-title="LIVE", Baltimore Orioles vs Minnesota Twins - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786490263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c54d79ed908b538a2a3ae0f9727273e0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1786492063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-679c8b21b7ccd65aa33ae236805e212d
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20St.%20Louis%20Cardinals.jpg" group-title="LIVE", Philadelphia Phillies vs St. Louis Cardinals - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786492064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23a14bae1e46a79e776e41de4f0b6b03
 
 
 
