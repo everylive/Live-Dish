@@ -47,117 +47,137 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:02:26 PM 18-08-2026
+#last update time: 11:32:28 PM 18-08-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Heidenheim%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="LIVE", 1. FC Heidenheim vs Bayern München - Friendlies Clubs
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Heidenheim%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="LIVE", 1. FC Heidenheim vs Bayern München - Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7535356cca40d0daa494e8/chunks.m3u8?is_vip=false&token=1787158947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f31f0889c72198c87e73972aeebd4212
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7535356cca40d0daa494e8-backup/chunks.m3u8?is_vip=false&token=1787160749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-91432d7cdc6c52b387d8c14084351444
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Heidenheim%20vs%20Bayern%20M%C3%BCnchen.jpg" group-title="LIVE", 1. FC Heidenheim vs Bayern München - Friendlies Clubs [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7535356cca40d0daa494e8/chunks.m3u8?is_vip=false&token=1787160750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ce57bbacf50abf2dbbd120fa6b915b0
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20open.jpg" group-title="LIVE", Cincinnati open - Cincinnati open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787158948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3a30c37bdcab389c70aa9baaaac59b8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787160752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5d79f5af534d54c84d2a33e2465c77a
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Jabalain%20vs%20Al-Ettifaq.jpg" group-title="LIVE", Al Jabalain vs Al-Ettifaq - King's Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e729-backup/chunks.m3u8?is_vip=false&token=1787160753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-70f41124f933b06cfa3f48a61f552d9b
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Najma%20vs%20Al-Ittihad%20FC.jpg" group-title="LIVE", Al Najma vs Al-Ittihad FC - King's Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e72e-backup/chunks.m3u8?is_vip=false&token=1787158950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-547e98257d044c4328106fee76b64dad
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e72e-backup/chunks.m3u8?is_vip=false&token=1787160755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5175abc81ebdaaab74faf9a1e4cbaa8d
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Najma%20vs%20Al-Ittihad%20FC.jpg" group-title="LIVE", Al Najma vs Al-Ittihad FC - King's Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e72e/chunks.m3u8?is_vip=false&token=1787158951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-caf5b15df14d8f3ebdcb542861fa1cb9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e72e/chunks.m3u8?is_vip=false&token=1787160756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c43a3db85259e094013df473691ea5c
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Okhdood%20vs%20Al%20Khaleej%20Saihat.jpg" group-title="LIVE", Al Okhdood vs Al Khaleej Saihat - King's Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e731/chunks.m3u8?is_vip=false&token=1787158954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8017708eed8d6c4fe289be988c803876
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e731/chunks.m3u8?is_vip=false&token=1787160757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-12d7d067922f2955ec85bcc5b2097606
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nordlingen%20vs%20Ingolstadt%20II.jpg" group-title="LIVE", Nordlingen vs Ingolstadt II - Oberliga - Bayern Nord
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7cd7e05213cd25c0f1feb5-backup/chunks.m3u8?is_vip=false&token=1787160758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-734a12218966371758dcefb8d794403c
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/W%C3%BCrzburger%20FV%20vs%20Neudrossenfeld.jpg" group-title="LIVE", Würzburger FV vs Neudrossenfeld - Oberliga - Bayern Nord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7cd7e05213cd25c0f1feb2-backup/chunks.m3u8?is_vip=false&token=1787158955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e39fb7da8597780cd1c5de023d9159f4
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7cd7e05213cd25c0f1feb2-backup/chunks.m3u8?is_vip=false&token=1787160760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2a571dce5b1be8df20289735cce4f7f9
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Janice%20Tjen%20vs%20Mirra%20Andreeva.jpg" group-title="LIVE", Janice Tjen vs Mirra Andreeva - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1787158958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdf7748a58549527602ccd2f3c9f4cf1
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor%20Fritz%20vs%20Daniel%20Merida.jpg" group-title="LIVE", Taylor Fritz vs Daniel Merida - ATP Cincinnati
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787158960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2373143ccc7206e52d7fb75d860db0d1
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IFK%20Sk%C3%B6vde%20vs%20Falkenbergs%20FF.jpg" group-title="LIVE", IFK Skövde vs Falkenbergs FF - Svenska Cupen [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b946f6bf7688dc3e0b8f5-backup/chunks.m3u8?is_vip=false&token=1787158961-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d8218974c5be830b40d5fb482c096d4
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IFK%20Sk%C3%B6vde%20vs%20Falkenbergs%20FF.jpg" group-title="LIVE", IFK Skövde vs Falkenbergs FF - Svenska Cupen [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b946f6bf7688dc3e0b8f5/chunks.m3u8?is_vip=false&token=1787158963-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6080545d853befda9f6c9f1680d30833
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V%C3%A4stra%20Fr%C3%B6lunda%20vs%20IF%20Elfsborg.jpg" group-title="LIVE", Västra Frölunda vs IF Elfsborg - Svenska Cupen [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9a-backup/chunks.m3u8?is_vip=false&token=1787158970-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2ef3007b8ec0c5065b83b709961828e
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V%C3%A4stra%20Fr%C3%B6lunda%20vs%20IF%20Elfsborg.jpg" group-title="LIVE", Västra Frölunda vs IF Elfsborg - Svenska Cupen [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9a/chunks.m3u8?is_vip=false&token=1787158971-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5ff9a986d35f5c605a8eb566d929734
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IF%20Karlstad%20vs%20Sandviken.jpg" group-title="LIVE", IF Karlstad vs Sandviken - Svenska Cupen [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a98-backup/chunks.m3u8?is_vip=false&token=1787158972-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae6e8b034c7d3f95f266f301ae9b694e
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IF%20Karlstad%20vs%20Sandviken.jpg" group-title="LIVE", IF Karlstad vs Sandviken - Svenska Cupen [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a98/chunks.m3u8?is_vip=false&token=1787158974-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a6c745f737acb4c8d1b91e2fb63e8f2
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlberg%20vs%20IK%20brage.jpg" group-title="LIVE", Karlberg vs IK brage - Svenska Cupen [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a99-backup/chunks.m3u8?is_vip=false&token=1787158976-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e352d94700830e7dabf3d08d4abe22f9
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlberg%20vs%20IK%20brage.jpg" group-title="LIVE", Karlberg vs IK brage - Svenska Cupen [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a99/chunks.m3u8?is_vip=false&token=1787158977-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4ef6292a6ee89819f5bc22d3da386ffc
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AFC%20Eskilstuna%20vs%20Oddevold.jpg" group-title="LIVE", AFC Eskilstuna vs Oddevold - Svenska Cupen [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9d-backup/chunks.m3u8?is_vip=false&token=1787158978-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4be3721f22384a05f7f7ddb7dff772c8
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AFC%20Eskilstuna%20vs%20Oddevold.jpg" group-title="LIVE", AFC Eskilstuna vs Oddevold - Svenska Cupen [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9d/chunks.m3u8?is_vip=false&token=1787158979-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c149536d61e12dc6ab6269daf07a85b2
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sollentuna%20vs%20Orebro%20SK.jpg" group-title="LIVE", Sollentuna vs Orebro SK - Svenska Cupen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542aa0/chunks.m3u8?is_vip=false&token=1787158981-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0e9019fb233cb3208f55bcdaa482817
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1787160761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b32b1c2a1d3bbafab9a84f4a914c4610
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/B%C3%B6ljan%20vs%20Varbergs%20BoIS%20FC.jpg" group-title="LIVE", Böljan vs Varbergs BoIS FC - Svenska Cupen [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542aa5-backup/chunks.m3u8?is_vip=false&token=1787158983-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3aa1a8e7dc822211abbd51cdefcbb914
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542aa5-backup/chunks.m3u8?is_vip=false&token=1787160763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62a5876c7d74e309da8562c5de8dd373
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/B%C3%B6ljan%20vs%20Varbergs%20BoIS%20FC.jpg" group-title="LIVE", Böljan vs Varbergs BoIS FC - Svenska Cupen [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542aa5/chunks.m3u8?is_vip=false&token=1787158984-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a80fb50ccd12d5947997761dee9c8838
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542aa5/chunks.m3u8?is_vip=false&token=1787160764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5caa3a09c4c5cd90fedfc41e31f85f19
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor%20Fritz%20vs%20Daniel%20Merida.jpg" group-title="LIVE", Taylor Fritz vs Daniel Merida - ATP Cincinnati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787160765-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d94b48fb4e43eef38aa4a013002f7be7
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IFK%20Sk%C3%B6vde%20vs%20Falkenbergs%20FF.jpg" group-title="LIVE", IFK Skövde vs Falkenbergs FF - Svenska Cupen [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b946f6bf7688dc3e0b8f5-backup/chunks.m3u8?is_vip=false&token=1787160767-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-089d6ac94a13bef706b58d28dee0c3a8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IFK%20Sk%C3%B6vde%20vs%20Falkenbergs%20FF.jpg" group-title="LIVE", IFK Skövde vs Falkenbergs FF - Svenska Cupen [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b946f6bf7688dc3e0b8f5/chunks.m3u8?is_vip=false&token=1787160767-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1cda7695d423942c59c06181269f99d1
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V%C3%A4stra%20Fr%C3%B6lunda%20vs%20IF%20Elfsborg.jpg" group-title="LIVE", Västra Frölunda vs IF Elfsborg - Svenska Cupen [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9a-backup/chunks.m3u8?is_vip=false&token=1787160769-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b75273ce2e7b81b7bd13c1df7ec1629
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V%C3%A4stra%20Fr%C3%B6lunda%20vs%20IF%20Elfsborg.jpg" group-title="LIVE", Västra Frölunda vs IF Elfsborg - Svenska Cupen [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9a/chunks.m3u8?is_vip=false&token=1787160770-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a73eac77b75155b356064c5a810d41e4
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IF%20Karlstad%20vs%20Sandviken.jpg" group-title="LIVE", IF Karlstad vs Sandviken - Svenska Cupen [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a98-backup/chunks.m3u8?is_vip=false&token=1787160771-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-316591172665b88bbc53bfa8d545b0d4
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IF%20Karlstad%20vs%20Sandviken.jpg" group-title="LIVE", IF Karlstad vs Sandviken - Svenska Cupen [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a98/chunks.m3u8?is_vip=false&token=1787160772-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fc0801be4190650ae0d73ef659723f8e
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlberg%20vs%20IK%20brage.jpg" group-title="LIVE", Karlberg vs IK brage - Svenska Cupen [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a99-backup/chunks.m3u8?is_vip=false&token=1787160773-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0e5166c58c15b377f5f70027b64d2cab
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlberg%20vs%20IK%20brage.jpg" group-title="LIVE", Karlberg vs IK brage - Svenska Cupen [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a99/chunks.m3u8?is_vip=false&token=1787160774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4ec817bd6594532b55f264a5cc26f5a6
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AFC%20Eskilstuna%20vs%20Oddevold.jpg" group-title="LIVE", AFC Eskilstuna vs Oddevold - Svenska Cupen [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9d-backup/chunks.m3u8?is_vip=false&token=1787160775-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0da61b9ca19213183abd02d8e1472d23
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AFC%20Eskilstuna%20vs%20Oddevold.jpg" group-title="LIVE", AFC Eskilstuna vs Oddevold - Svenska Cupen [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542a9d/chunks.m3u8?is_vip=false&token=1787160776-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5567621d4d4cea4f755cfd05512de92
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sollentuna%20vs%20Orebro%20SK.jpg" group-title="LIVE", Sollentuna vs Orebro SK - Svenska Cupen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280bebc5c3ef2c542aa0/chunks.m3u8?is_vip=false&token=1787160777-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5e26f25a92e6373b6d79bfe90824466
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spelle-Venhaus%20vs%20VfL%20Osnabr%C3%BCck.jpg" group-title="LIVE", Spelle-Venhaus vs VfL Osnabrück - Friendlies Clubs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a80a22de15cf29d83eef6c5-backup/chunks.m3u8?is_vip=false&token=1787160779-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f4e3591c4092ade2c881c19eaf550f8
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Michael%20Zheng%20vs%20Lorenzo%20Musetti.jpg" group-title="LIVE", Michael Zheng vs Lorenzo Musetti - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1787158992-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88fcb13c3b25f0a76befa3b0ec38e218
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1787160780-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd6016703bb0937c026630e649efd327
 
 
 
