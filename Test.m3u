@@ -48,92 +48,52 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:32:24 PM 26-08-2026
+#last update time: 6:02:23 PM 26-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787830344-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-40afdd7ddac289a528be92ae6a6505be
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787832144-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c63b75e76562d1abcb7763ea8b86ec4b
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20vs%20FC%20Gifu.jpg" group-title="LIVE", Cerezo Osaka vs FC Gifu - Emperor Cup
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Azul%20Claro%20Numazu.jpg" group-title="LIVE", JEF United Chiba vs Azul Claro Numazu - Emperor Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb1-backup/chunks.m3u8?is_vip=false&token=1787830346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd7aa5b19f7cb2b145801ff4de4c88a4
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc7/chunks.m3u8?is_vip=false&token=1787832146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3be518d16d7114bef286b011bd6cbc15
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20vs%20Ehime%20FC.jpg" group-title="LIVE", V-varen Nagasaki vs Ehime FC - Emperor Cup
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb6-backup/chunks.m3u8?is_vip=false&token=1787830347-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3f999c48080ad6d8373876225fc2cf1d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a-backup/chunks.m3u8?is_vip=false&token=1787832152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-05a8456ca0964bbb3787e9491d21fdf2
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Consadole%20Sapporo%20vs%20Ventforet%20Kofu.jpg" group-title="LIVE", Consadole Sapporo vs Ventforet Kofu - Emperor Cup
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcb-backup/chunks.m3u8?is_vip=false&token=1787830349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b0123b9c4a23fde2ea9240d3b0cb2507
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a/chunks.m3u8?is_vip=false&token=1787832154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6bf64a87e50d02222ff716bd05fd2111
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vegalta%20Sendai%20vs%20Tochigi%20City.jpg" group-title="LIVE", Vegalta Sendai vs Tochigi City - Emperor Cup
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Gangwon FC vs Gwangju FC - K League 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc1-backup/chunks.m3u8?is_vip=false&token=1787830350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23b64724aa57ac94fbb52ca1d3ebd248
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b-backup/chunks.m3u8?is_vip=false&token=1787832156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed62567d2a34fb37251332e34c90710a
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Albirex%20Niigata%20vs%20Kagoshima%20United.jpg" group-title="LIVE", Albirex Niigata vs Kagoshima United - Emperor Cup
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Gangwon FC vs Gwangju FC - K League 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb8-backup/chunks.m3u8?is_vip=false&token=1787830351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff63f53005eb3d2397f2115f586ac10d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b/chunks.m3u8?is_vip=false&token=1787832157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af6c4154b8d4c3c3750a2facd5eceb25
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20Parceiro%20Nagano.jpg" group-title="LIVE", FC Tokyo vs Parceiro Nagano - Emperor Cup
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20vs%20Incheon%20United.jpg" group-title="LIVE", FC Anyang vs Incheon United - K League 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb5-backup/chunks.m3u8?is_vip=false&token=1787830353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a92d23e7bda10bee5b7dfe7d504ca2cc
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29-backup/chunks.m3u8?is_vip=false&token=1787832159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-52b4b8ae6f46399bfabc4f379a059567
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20vs%20Biwako%20Shiga.jpg" group-title="LIVE", Gamba Osaka vs Biwako Shiga - Emperor Cup
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20vs%20Incheon%20United.jpg" group-title="LIVE", FC Anyang vs Incheon United - K League 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fbe-backup/chunks.m3u8?is_vip=false&token=1787830354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f0430b43a30be971f6ff96058775465f
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Suzuka%20Unlimited.jpg" group-title="LIVE", Kashima vs Suzuka Unlimited - Emperor Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb4-backup/chunks.m3u8?is_vip=false&token=1787830356-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b13b074af84c561a92e312b189141f3
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kawasaki%20Frontale%20vs%20Tochigi%20SC.jpg" group-title="LIVE", Kawasaki Frontale vs Tochigi SC - Emperor Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fbf-backup/chunks.m3u8?is_vip=false&token=1787830357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d22a86d0007b2202a3178d35310da321
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kyoto%20Sanga%20vs%20Maruyasu%20Okazaki.jpg" group-title="LIVE", Kyoto Sanga vs Maruyasu Okazaki - Emperor Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc3-backup/chunks.m3u8?is_vip=false&token=1787830358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1c78b23060b2b3c709c5a69baeb57610
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20vs%20Kyoto%20Sangyo%20University.jpg" group-title="LIVE", Mito Hollyhock vs Kyoto Sangyo University - Emperor Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fba-backup/chunks.m3u8?is_vip=false&token=1787830359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-519fee732adc44de054cbe17ca0a133b
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20vs%20Yamanashi%20Gakuin.jpg" group-title="LIVE", Urawa vs Yamanashi Gakuin - Emperor Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb9-backup/chunks.m3u8?is_vip=false&token=1787830361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c57349abb21e80c8ed36b4aaf23918e3
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a-backup/chunks.m3u8?is_vip=false&token=1787830363-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4a1a1a9d72f363416813dfb7a7d8830f
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Gangwon FC vs Gwangju FC - K League 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2b-backup/chunks.m3u8?is_vip=false&token=1787830364-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed68747fa92119b3d3d3907fe9a859c0
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20vs%20Incheon%20United.jpg" group-title="LIVE", FC Anyang vs Incheon United - K League 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29-backup/chunks.m3u8?is_vip=false&token=1787830366-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-29fe5a38bd84347c86cb9628134258b2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc29/chunks.m3u8?is_vip=false&token=1787832161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1297454db59f6d938b7174af4d08cee
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Quarto%20turno.jpg" group-title="LIVE", Wuhan Open: Quarto turno - World Snooker Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787830367-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce2112258a0687b64c4bd66a8e1c293a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787832162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aa9129e6d7e40920f042097e184b9052
 
 
 
