@@ -48,87 +48,67 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 4:47:24 AM 27-08-2026
+#last update time: 10:02:26 AM 27-08-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787870845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a8799bc561c19e35b235e9f7f04ea1f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787889748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-46ed7a9381ab85fb078c1b82d0a67bf7
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Chicago Cubs vs Arizona Diamondbacks - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Seattle%20Storm.jpg" group-title="LIVE", Toronto Tempo vs Seattle Storm - WNBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1787870847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2ffea3ef381a88d2406c58662967b1b8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510822/720p/chunks.m3u8?is_vip=false&token=1787889750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-51b4a615f3f56c5405e890efe76eb03b
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Cincinnati Reds vs San Francisco Giants - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LD%20Alajuelense%20vs%20Plaza%20Amador.jpg" group-title="LIVE", LD Alajuelense vs Plaza Amador - CONCACAF Central American Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1787870849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34f2f2f23f9bc3deb0d19638029bba50
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dbfc-fhd/chunks.m3u8?is_vip=false&token=1787889752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac926fc3f7a3749c5e2cadde0f14ce5a
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Los%20Angeles%20Angels.jpg" group-title="LIVE", Cleveland Guardians vs Los Angeles Angels - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LD%20Alajuelense%20vs%20Plaza%20Amador.jpg" group-title="LIVE", LD Alajuelense vs Plaza Amador - CONCACAF Central American Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1787870850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23fb07e21e91d9037fe02a533e004ff3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dbfc-backup/chunks.m3u8?is_vip=false&token=1787889753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3bbd23303c5ad6b4c29dba4507a620ba
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Seattle%20Mariners.jpg" group-title="LIVE", Philadelphia Phillies vs Seattle Mariners - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LD%20Alajuelense%20vs%20Plaza%20Amador.jpg" group-title="LIVE", LD Alajuelense vs Plaza Amador - CONCACAF Central American Cup [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1787870851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-96ecc34dffa7660c2b91205ccc3ba427
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dbfc/chunks.m3u8?is_vip=false&token=1787889754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4ac876695a152f0b22568fa3beed70f0
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Pirates%20vs%20San%20Diego%20Padres.jpg" group-title="LIVE", Pittsburgh Pirates vs San Diego Padres - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Xelaj%C3%BA%20vs%20Firpo.jpg" group-title="LIVE", Xelajú vs Firpo - CONCACAF Central American Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1787870852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc251348c36cfcd3594a14f92d22cbea
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca27-backup/chunks.m3u8?is_vip=false&token=1787889755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0edf3703af8c6b1bd0f2eaa272a9dc92
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aldosivi%20vs%20Independ.%20Rivadavia.jpg" group-title="LIVE", Aldosivi vs Independ. Rivadavia - Copa Argentina [Server 1]
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Xelaj%C3%BA%20vs%20Firpo.jpg" group-title="LIVE", Xelajú vs Firpo - CONCACAF Central American Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c34848692467520ef-backup/chunks.m3u8?is_vip=false&token=1787870855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b99859012ee6d47650d618fc198f43a2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca27/chunks.m3u8?is_vip=false&token=1787889756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8579e76adb002c8751eb807a77d04a8a
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aldosivi%20vs%20Independ.%20Rivadavia.jpg" group-title="LIVE", Aldosivi vs Independ. Rivadavia - Copa Argentina [Server 2]
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Columbus%20Crew.jpg" group-title="LIVE", Club America vs Columbus Crew - Leagues Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c34848692467520ef/chunks.m3u8?is_vip=false&token=1787870856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36b644f2315a406ea50ee754a0b326e5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa7-hd/chunks.m3u8?is_vip=false&token=1787889758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c878fff46b9737ffe2b3429711b3079
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20Red%20Sox%20vs%20Miami%20Marlins.jpg" group-title="LIVE", Boston Red Sox vs Miami Marlins - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Columbus%20Crew.jpg" group-title="LIVE", Club America vs Columbus Crew - Leagues Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1787870857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14217dd36491a362e62f06e1d5181929
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa7-fhd/chunks.m3u8?is_vip=false&token=1787889759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c96e679d2358c118fc4f22ea330336d
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Washington%20Nationals.jpg" group-title="LIVE", Colorado Rockies vs Washington Nationals - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Columbus%20Crew.jpg" group-title="LIVE", Club America vs Columbus Crew - Leagues Cup [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1787870859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d19565d51818dfdae0cba2b139ded88b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa7-backup/chunks.m3u8?is_vip=false&token=1787889760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-344d9e9d90a7b0a97e0f75f6b0cbb003
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Knight%20Riders%20vs%20Kings.jpg" group-title="LIVE", Knight Riders vs Kings - CPL
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Columbus%20Crew.jpg" group-title="LIVE", Club America vs Columbus Crew - Leagues Cup [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787870860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-becbfdcb602cb5a3cd28927ede3aef95
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa7/chunks.m3u8?is_vip=false&token=1787889761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-adbaf2ca31f4ff1b85cbd5e425480fa6
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Connecticut%20Sun.jpg" group-title="LIVE", Golden State Valkyries vs Connecticut Sun - WNBA
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="Cricket", Sri Lanka vs India - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510821/720p/chunks.m3u8?is_vip=false&token=1787870861-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b3b48a29066e51d3bc21f85094f080ca
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20New%20York%20Yankees.jpg" group-title="Baseball", Houston Astros vs New York Yankees - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1787870864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e85e6baef511ef578a7e246db6fed4f2
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Toronto%20Blue%20Jays.jpg" group-title="Baseball", Kansas City Royals vs Toronto Blue Jays - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1787870865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30842a18329d0cee5cbd8cf3bbeaabc1
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20New%20York%20Mets.jpg" group-title="Baseball", Milwaukee Brewers vs New York Mets - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1787870865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb99c4e6c3c12a1f385f25e50fa9fe6a
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Dodgers%20vs%20Atlanta%20Braves.jpg" group-title="Baseball", Los Angeles Dodgers vs Atlanta Braves - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=1787870865-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3b0eb73d72b7b5f287fd6aa12fe2d056
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787889765-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ef972bba673028e10e6ea967563730e
 
 
 
