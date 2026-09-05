@@ -48,67 +48,57 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:32:26 AM 05-09-2026
+#last update time: 3:17:26 PM 05-09-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="62353" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#EXTINF:-1 group-title="Live Sports" tvg-id="53342" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bhayangkara%20FC%20vs%20Persebaya%20Surabaya.jpg" group-title="LIVE", Bhayangkara FC vs Persebaya Surabaya - Liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788672747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-733c3f78a2203efd166b639f09019b3d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f5/chunks.m3u8?is_vip=false&token=1788686247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a742f1d496990b6e86e3d7d7c136b2a
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="62355" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arthur%20Ashe%20Stadium.jpg" group-title="LIVE", Arthur Ashe Stadium - US Open
+#EXTINF:-1 group-title="Live Sports" tvg-id="53343" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persik%20Kediri%20vs%20Dewa%20United.jpg" group-title="LIVE", Persik Kediri vs Dewa United - Liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788672749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-930261ff8bc0308fffd19befeff1a93c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f4/chunks.m3u8?is_vip=false&token=1788686248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c7d22233f3873f0619aa8f4c42a614bc
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="53785" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Andy%20Ruiz%20Jr.%20vs%20Damian%20Knyba.jpg" group-title="LIVE", Andy Ruiz Jr. vs Damian Knyba - Matchroom Boxing
+#EXTINF:-1 group-title="Live Sports" tvg-id="53344" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSIM%20Yogyakarta%20vs%20Persita.jpg" group-title="LIVE", PSIM Yogyakarta vs Persita - Liga 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/61332/720p/chunks.m3u8?is_vip=false&token=1788672750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eeaca6a6840587e49e5f432d09a01daa
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f3-backup/chunks.m3u8?is_vip=false&token=1788686250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-68173a3b903952bb965668ac5b73855b
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="53778" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="LIVE", Washington Nationals vs Los Angeles Dodgers - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-id="53344" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSIM%20Yogyakarta%20vs%20Persita.jpg" group-title="LIVE", PSIM Yogyakarta vs Persita - Liga 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1788672751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e96dc9cdfc78faa5983b05592dd53e37
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f0a82eeaf4f1e6ae7e8f3/chunks.m3u8?is_vip=false&token=1788686251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3fa4fc4fc4eb0f4d74a6324f059348a5
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="53779" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletics%20vs%20Seattle%20Mariners.jpg" group-title="LIVE", Athletics vs Seattle Mariners - MLB
+#EXTINF:-1 group-title="Live Sports" tvg-id="61566" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northern%20Tigers%20vs%20St.%20George%20Saints.jpg" group-title="LIVE", Northern Tigers vs St. George Saints - New South Wales NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55849/720p/chunks.m3u8?is_vip=false&token=1788672752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b9f39eab48c690da1382a9204c42d7dd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9a819fcc54bda3f6b37c2e-backup/chunks.m3u8?is_vip=false&token=1788686252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6382b23500241cb9d6a556c5148b98cd
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="53808" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cronulla-Sutherland%20Sharks%20vs%20New%20Zealand%20Warriors.jpg" group-title="LIVE", Cronulla-Sutherland Sharks vs New Zealand Warriors - NRL Women's Premiership
+#EXTINF:-1 group-title="Live Sports" tvg-id="61566" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northern%20Tigers%20vs%20St.%20George%20Saints.jpg" group-title="LIVE", Northern Tigers vs St. George Saints - New South Wales NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788672753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b3eca057072fe9f094065f9d2fdeb1f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9a819fcc54bda3f6b37c2e/chunks.m3u8?is_vip=false&token=1788686253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bae18ee537ae8390aaede0666e314102
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="58218" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avondale%20vs%20Preston%20Lions.jpg" group-title="LIVE", Avondale vs Preston Lions - Victoria NPL [Server 1]
+#EXTINF:-1 group-title="Live Sports" tvg-id="61560" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%2C%20Italy.jpg" group-title="LIVE", Monza, Italy - Porsche Mobil 1 Supercup Qualifying
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9484f20f997065ce34bb4a-backup/chunks.m3u8?is_vip=false&token=1788672755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e47b5ed1fd7c16dfc3eb74e138b16af0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788686257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-646e2f5cf75c58968edced65658733d9
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="58218" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avondale%20vs%20Preston%20Lions.jpg" group-title="LIVE", Avondale vs Preston Lions - Victoria NPL [Server 2]
+#EXTINF:-1 group-title="Live Sports" tvg-id="61567" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monaro%20Panthers%20vs%20Cooma%20Tigers%20FC.jpg" group-title="LIVE", Monaro Panthers vs Cooma Tigers FC - Capital Territory NPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9484f20f997065ce34bb4a/chunks.m3u8?is_vip=false&token=1788672756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3622fedf1c75ce8c76f6b7c80a54807f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd79-backup/chunks.m3u8?is_vip=false&token=1788686258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1bf09040281b5ee59ae0d97d3b709b0
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="60227" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kahibah%20vs%20Newcastle%20Croatia%20FC.jpg" group-title="LIVE", Kahibah vs Newcastle Croatia FC - Northern NSW NPL [Server 1]
+#EXTINF:-1 group-title="Live Sports" tvg-id="61568" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mandurah%20City%20vs%20UWA%20Nedlands.jpg" group-title="LIVE", Mandurah City vs UWA Nedlands - Western Australia NPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95c85ce4f896100ff85159-backup/chunks.m3u8?is_vip=false&token=1788672757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-931871f92cc2951c8e77a91589d02d16
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd7a-backup/chunks.m3u8?is_vip=false&token=1788686260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1e95e69307612103748ab64c8fa63ce0
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="60227" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kahibah%20vs%20Newcastle%20Croatia%20FC.jpg" group-title="LIVE", Kahibah vs Newcastle Croatia FC - Northern NSW NPL [Server 2]
+#EXTINF:-1 group-title="Live Sports" tvg-id="55744" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dockers%20vs%20Castle%20Rockers.jpg" group-title="LIVE", Dockers vs Castle Rockers - ETPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95c85ce4f896100ff85159/chunks.m3u8?is_vip=false&token=1788672758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce35e45ac2ad5d4c2d4c30f282b69643
-
-#EXTINF:-1 group-title="Live Sports" tvg-id="53802" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tasman%20vs%20Wellington.jpg" group-title="LIVE", Tasman vs Wellington - NPC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788672759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-32c5ecc31ab01bb7fed397646fc6a5f7
-
-#EXTINF:-1 group-title="Live Sports" tvg-id="53809" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20Roosters%20vs%20North%20Queensland%20Cowboys.jpg" group-title="LIVE", Sydney Roosters vs North Queensland Cowboys - NRL Women's Premiership
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788672760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c413aefaa2d896fde2734da3ed38e7ff
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788686261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7eb2e9c82ed094dc3e4c179806ffd5e3
 
 
 
