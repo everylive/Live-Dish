@@ -48,47 +48,117 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:17:21 AM 06-09-2026
+#last update time: 3:32:26 PM 06-09-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="54656" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Titans%20vs%20Wests%20Tigers.jpg" group-title="LIVE", Gold Coast Titans vs Wests Tigers - NRL Women's Premiership
+#EXTINF:-1 group-title="Live Sports" tvg-id="61571" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%2C%20Italy.jpg" group-title="LIVE", Monza, Italy - FIA Formula 2 Championship Feature Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788758242-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed384314c6fe3e8dc1ade9774312dc89
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788773547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ff2e6d5c17864a88829442bbe7c6eaa
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="62299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20United%20vs%20Manly%20United.jpg" group-title="LIVE", Sydney United vs Manly United - New South Wales NPL [Server 1]
+#EXTINF:-1 group-title="Live Sports" tvg-id="54657" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Parramatta%20Eels%20vs%20Canberra%20Raiders.jpg" group-title="LIVE", Parramatta Eels vs Canberra Raiders - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9af2619a962fec68c865da-backup/chunks.m3u8?is_vip=false&token=1788758246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dbc53889c427360e5579c6f97131bc52
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788773548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d599b19580e9cf1ac3e1bc2ce97bf16f
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="62299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20United%20vs%20Manly%20United.jpg" group-title="LIVE", Sydney United vs Manly United - New South Wales NPL [Server 2]
+#EXTINF:-1 group-title="Live Sports" tvg-id="54270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malut%20United%20vs%20Garudayaksa.jpg" group-title="LIVE", Malut United vs Garudayaksa - Liga 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9af2619a962fec68c865da/chunks.m3u8?is_vip=false&token=1788758246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14a550aa28e26f81ed3f967b4a8f3e25
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f1887eeaf4f1e6ae820f3-backup/chunks.m3u8?is_vip=false&token=1788773549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1f3ac66d6a97f3c547f48e4ec81ec307
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="60228" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mongolia%20U20%20vs%20Guam%20U20.jpg" group-title="LIVE", Mongolia U20 vs Guam U20 - AFC U20 Asian Cup [Server 1]
+#EXTINF:-1 group-title="Live Sports" tvg-id="54270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malut%20United%20vs%20Garudayaksa.jpg" group-title="LIVE", Malut United vs Garudayaksa - Liga 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c44-backup/chunks.m3u8?is_vip=false&token=1788758247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dc2f934e53c152afcf58968d7e2a5f39
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f1887eeaf4f1e6ae820f3/chunks.m3u8?is_vip=false&token=1788773551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4ec7f320f00aca3f1f91ab17c98665d
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="60228" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mongolia%20U20%20vs%20Guam%20U20.jpg" group-title="LIVE", Mongolia U20 vs Guam U20 - AFC U20 Asian Cup [Server 2]
+#EXTINF:-1 group-title="Live Sports" tvg-id="54273" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Urawa.jpg" group-title="LIVE", Kashima vs Urawa - J1 League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c44/chunks.m3u8?is_vip=false&token=1788758248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a56281cbc427cff15f62e2d063adfb5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c03-backup/chunks.m3u8?is_vip=false&token=1788773552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4c9274d7dcfd4101d7377fb61c735192
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="60226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Broadmeadow%20Magic%20vs%20Maitland.jpg" group-title="LIVE", Broadmeadow Magic vs Maitland - Northern NSW NPL [Server 1]
+#EXTINF:-1 group-title="Live Sports" tvg-id="54273" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Urawa.jpg" group-title="LIVE", Kashima vs Urawa - J1 League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95c85ce4f896100ff8515a-backup/chunks.m3u8?is_vip=false&token=1788758249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a29f4df25a998d7b833795a213965311
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c03/chunks.m3u8?is_vip=false&token=1788773552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0d66fcda28f3784db7986bb6cce4502
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="60226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Broadmeadow%20Magic%20vs%20Maitland.jpg" group-title="LIVE", Broadmeadow Magic vs Maitland - Northern NSW NPL [Server 2]
+#EXTINF:-1 group-title="Live Sports" tvg-id="60233" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korea%20DPR%20U20%20vs%20Palestine%20U20.jpg" group-title="LIVE", Korea DPR U20 vs Palestine U20 - AFC U20 Asian Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95c85ce4f896100ff8515a/chunks.m3u8?is_vip=false&token=1788758250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6c759d586efe5364cb70ec7bb7ad998
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c4f-backup/chunks.m3u8?is_vip=false&token=1788773554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25e0382744adc19135e64d7a9eedb10c
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="54653" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Collingwood%20Magpies%20vs%20Carlton%20Blues.jpg" group-title="LIVE", Collingwood Magpies vs Carlton Blues - AFL Womens Premiership
+#EXTINF:-1 group-title="Live Sports" tvg-id="60233" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korea%20DPR%20U20%20vs%20Palestine%20U20.jpg" group-title="LIVE", Korea DPR U20 vs Palestine U20 - AFC U20 Asian Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788758251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f09902890dc66b73d8af333be3644109
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c4f/chunks.m3u8?is_vip=false&token=1788773554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3c72f63e290da468dcbb5f79145ab9a4
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60231" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chinese%20Taipei%20U20%20vs%20Singapore%20U20.jpg" group-title="LIVE", Chinese Taipei U20 vs Singapore U20 - AFC U20 Asian Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c42-backup/chunks.m3u8?is_vip=false&token=1788773555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-87ed7d2e28329e685aff07c520f8a35a
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60231" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chinese%20Taipei%20U20%20vs%20Singapore%20U20.jpg" group-title="LIVE", Chinese Taipei U20 vs Singapore U20 - AFC U20 Asian Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c42/chunks.m3u8?is_vip=false&token=1788773557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9bf12ec62ff6ffc916bba38d6c63545
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60230" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20U20%20vs%20Indonesia%20U20.jpg" group-title="LIVE", Australia U20 vs Indonesia U20 - AFC U20 Asian Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c46-backup/chunks.m3u8?is_vip=false&token=1788773558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0287377f2faf0d67b730cd4cf0c4a366
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="54277" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milan%20U20%20vs%20Juventus%20U20.jpg" group-title="LIVE", Milan U20 vs Juventus U20 - Campionato Primavera - 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb3477e-backup/chunks.m3u8?is_vip=false&token=1788773563-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f7a427cd5c4bb923a3ebf580a2e9bcb
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="54275" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20vs%20Sanfrecce%20Hiroshima.jpg" group-title="LIVE", Fagiano Okayama vs Sanfrecce Hiroshima - J1 League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c02/chunks.m3u8?is_vip=false&token=1788773564-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b376e40854df79f3145eca6bd55bb90
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="54274" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nagoya%20Grampus%20vs%20Machida%20Zelvia.jpg" group-title="LIVE", Nagoya Grampus vs Machida Zelvia - J1 League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c01-backup/chunks.m3u8?is_vip=false&token=1788773565-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-614f29e8cb01a436f41457b01f5ab8c8
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="54274" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nagoya%20Grampus%20vs%20Machida%20Zelvia.jpg" group-title="LIVE", Nagoya Grampus vs Machida Zelvia - J1 League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c01/chunks.m3u8?is_vip=false&token=1788773566-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4321b0c06af20abcdf2f4f6d58d443c3
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="54272" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Gamba%20Osaka.jpg" group-title="LIVE", JEF United Chiba vs Gamba Osaka - J1 League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c00-backup/chunks.m3u8?is_vip=false&token=1788773567-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-edaf60e9a1509b79f8989c1042f913d7
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="54272" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Gamba%20Osaka.jpg" group-title="LIVE", JEF United Chiba vs Gamba Osaka - J1 League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c00/chunks.m3u8?is_vip=false&token=1788773568-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-049390ba99d2c54994f785a8dc076c9a
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60234" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Myanmar%20U20%20vs%20Maldives%20U20.jpg" group-title="LIVE", Myanmar U20 vs Maldives U20 - AFC U20 Asian Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7c40-backup/chunks.m3u8?is_vip=false&token=1788773569-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2447c10b6539cdee0204192f0893c185
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="55748" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cosmics%20vs%20Castle%20Rockers.jpg" group-title="LIVE", Cosmics vs Castle Rockers - ETPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788773570-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9696ca0ef95be3caf2fd3c808bfa9dce
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="55749" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20W%20vs%20Ireland%20W.jpg" group-title="LIVE", England W vs Ireland W - 3rd ODI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788773572-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7498f8ad5a4016078d73499fcae0734
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="61572" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%2C%20Italy.jpg" group-title="LIVE", Monza, Italy - Porsche Mobil 1 Supercup Race
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788773573-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7229e8dc115fd2806c0c30a48c9af00a
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="54645" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%20Day%20Part%201%20Turkey.jpg" group-title="Auto Racing", Race Day Part 1: Turkey - MXGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788773577-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7624bba14d1cfac523f18b9325da790f
 
 
 
