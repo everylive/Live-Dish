@@ -48,12 +48,42 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:32:25 PM 15-09-2026
+#last update time: 6:02:25 PM 15-09-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="66601" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uzbekistan%20U23%20vs%20Philippines%20U23.jpg" group-title="LIVE", Uzbekistan U23 vs Philippines U23 - Asian Games
+#EXTINF:-1 group-title="Live Sports" tvg-id="64079" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Flames%20vs%20Guardians.jpg" group-title="LIVE", Flames vs Guardians - ETPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae2-backup/chunks.m3u8?is_vip=false&token=1789540348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f18e15e2f4d713b4aef9a319fd880555
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789560146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dec34160b53ee56db893ae80c4f2b7fa
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="66603" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qatar%20U23%20vs%20Korea%20Republic%20U23.jpg" group-title="LIVE", Qatar U23 vs Korea Republic U23 - Asian Games
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae8/chunks.m3u8?is_vip=false&token=1789560149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-563689969d4b54ac8aab127884d71b97
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="64117" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20Giro%20d'Abruzzo%2C%20Stage%201.jpg" group-title="LIVE", ES1, Giro d'Abruzzo, Stage 1 - UCI Pro Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789560150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f0c9031dc60bc6f5c8a085faf8777e0b
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60884" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Beijing%20Guoan%20vs%20Pohang%20Steelers.jpg" group-title="LIVE", Beijing Guoan vs Pohang Steelers - AFC Champions League Elite [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aef-fancode/chunks.m3u8?is_vip=false&token=1789560156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-85256033a3013abaa39740ac327da457
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60884" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Beijing%20Guoan%20vs%20Pohang%20Steelers.jpg" group-title="LIVE", Beijing Guoan vs Pohang Steelers - AFC Champions League Elite [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aef/chunks.m3u8?is_vip=false&token=1789560156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a7643a99ce308984fe92e06bc1a309c
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60885" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Buriram%20United.jpg" group-title="LIVE", Johor Darul Takzim FC vs Buriram United - AFC Champions League Elite [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aee-fancode/chunks.m3u8?is_vip=false&token=1789560157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ea50d225b1106dffe47e9bf88c7dda1
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="60885" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Buriram%20United.jpg" group-title="LIVE", Johor Darul Takzim FC vs Buriram United - AFC Champions League Elite [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aee/chunks.m3u8?is_vip=false&token=1789560157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f7ae768c792b814c9d130b497d797ea
 
 
 
