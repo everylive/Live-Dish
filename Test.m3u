@@ -48,27 +48,52 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 7:47:21 PM 18-09-2026
+#last update time: 11:17:26 PM 18-09-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="70929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan.jpg" group-title="LIVE", Wuhan - FIBA 3x3 U23 World Cup
+#EXTINF:-1 group-title="Live Sports" tvg-id="62967" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ML%20Vitebsk%20vs%20Arsenal.jpg" group-title="LIVE", ML Vitebsk vs Arsenal - Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/720p/chunks.m3u8?is_vip=false&token=1789825642-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7174194d8dfbd1d19f6d249ee376cec4
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abccc/chunks.m3u8?is_vip=false&token=1789838251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ea4baf94301b1c3c9d022f244f3d1acd
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="62952" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ayutthaya%20FC%20vs%20Uthai%20Thani.jpg" group-title="LIVE", Ayutthaya FC vs Uthai Thani - Thai League 1
+#EXTINF:-1 group-title="Live Sports" tvg-id="62972" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SpVgg%20Greuther%20F%C3%BCrth%20vs%201.%20FC%20Magdeburg.jpg" group-title="LIVE", SpVgg Greuther Fürth vs 1. FC Magdeburg - 2. Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f38860a/chunks.m3u8?is_vip=false&token=1789825644-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-149126b01ffb4e359bb7a21ca330a5ed
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58008/chunks.m3u8?is_vip=false&token=1789838255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f438a3e3e8de2e5ad37085378429243f
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="62954" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Persepam%20Madura%20Utd%20vs%20PSIM%20Yogyakarta.jpg" group-title="LIVE", Persepam Madura Utd vs PSIM Yogyakarta - Liga 1
+#EXTINF:-1 group-title="Live Sports" tvg-id="62976" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1899%20Hoffenheim%20W%20vs%20VfL%20Wolfsburg%20W.jpg" group-title="LIVE", 1899 Hoffenheim W vs VfL Wolfsburg W - Frauen Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f38860b/chunks.m3u8?is_vip=false&token=1789825647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-696c090be6eea76fe5425966e0ca9c41
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09baa-fhd/chunks.m3u8?is_vip=false&token=1789838259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a9188e09c5ad8ed0d5381dfd0c80c5f
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="62959" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belshina%20vs%20FC%20Minsk.jpg" group-title="LIVE", Belshina vs FC Minsk - Premier League
+#EXTINF:-1 group-title="Live Sports" tvg-id="62973" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20vs%20SV%20Darmstadt%2098.jpg" group-title="LIVE", VfL Wolfsburg vs SV Darmstadt 98 - 2. Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abcd0/chunks.m3u8?is_vip=false&token=1789825651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7e656bb586ca83ec22e89a14471b2487
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1789838260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-359637497066ffbd47eb5c9c97358776
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="62973" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20vs%20SV%20Darmstadt%2098.jpg" group-title="LIVE", VfL Wolfsburg vs SV Darmstadt 98 - 2. Bundesliga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58000-fhd/chunks.m3u8?is_vip=false&token=1789838261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d10fbb3908ac73cb9326953d7bd24a0
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="62973" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20vs%20SV%20Darmstadt%2098.jpg" group-title="LIVE", VfL Wolfsburg vs SV Darmstadt 98 - 2. Bundesliga [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58000/chunks.m3u8?is_vip=false&token=1789838262-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-83b4bb31cbc9e5a3456101f5d41589bd
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="62991" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kas%C4%B1mpa%C5%9Fa%20vs%20Konyaspor.jpg" group-title="LIVE", Kasımpaşa vs Konyaspor - Süper Lig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b9f/chunks.m3u8?is_vip=false&token=1789838268-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8bf0607e18dfd1c5246d6f4447ec007a
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="66641" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202%20-%20Evening%20Session.jpg" group-title="LIVE", Day 2 - Evening Session - World Series of Darts Finals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789838273-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01eda5b11d8c577c6f781dc4ec130507
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="62992" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rapid%20Vienna%20vs%20WSG%20Wattens.jpg" group-title="LIVE", Rapid Vienna vs WSG Wattens - Bundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abcac/chunks.m3u8?is_vip=false&token=1789838280-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-658b90f99d3c8ccc9e34fc453975889f
 
 
 
