@@ -48,37 +48,42 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 9:02:33 PM 22-09-2026
-
-#EXTINF:-1 group-title="Live Sports" tvg-id="73903" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="LIVE", WTA Singapore - WTA Singapore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790175758-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8dd83ee801d2c18ae321af95d9556b52
+#last update time: 12:32:30 AM 23-09-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="LIVE", England vs Sri Lanka - Sri Lanka tour of England [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790175767-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-79be3ad1b2d4fa9338abb4077265f72a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790188360-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f071e630fe2ace816b2b05c4479d77e0
 
 #EXTINF:-1 group-title="Live Sports" tvg-id="66606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="LIVE", England vs Sri Lanka - Sri Lanka tour of England [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790175771-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-246ddf8e342de3cf8e18b033c76f0a49
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790188365-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-99056c66e090d0014d435d2ef1c111ff
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="65225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%201.jpg" group-title="LIVE", ES1, CRO Race, Stage 1 - UCI Pro Series
+#EXTINF:-1 group-title="Live Sports" tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="LIVE", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790175777-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6ba2effb1e155aa9e29bcabb6de39738
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790188372-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a6004785b3c0fe2b5243f2eaadf5b35c
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="66646" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg" group-title="LIVE", Players Championship 29 - Den Bosch - Players Championship
+#EXTINF:-1 group-title="Live Sports" tvg-id="66148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="LIVE", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790175784-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-704e3af7f534d31307e33f1baee6be30
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790188379-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-81d6c5d80337afe5f43042d6cf1887b0
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="66648" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cronostaffetta%20mista%20Elite.jpg" group-title="LIVE", Cronostaffetta mista Elite - Cycling World Championships
+#EXTINF:-1 group-title="Live Sports" tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="LIVE", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790175790-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f2cf8ff380caf009f9551ba62936f37c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/chunks.m3u8?is_vip=false&token=1790188390-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6d38e95c3dcc49aa2750a7f18cdd9943
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="66139" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="LIVE", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790188394-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c0b0f1e6c96116bc37c7a609fd618dd6
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="66618" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg" group-title="LIVE", Tampa Bay Rays vs New York Yankees - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790188400-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-983c80a4f0a1665036844643459f5227
 
 
 
