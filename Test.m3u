@@ -48,23 +48,23 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:47:23 PM 27-09-2026
+#last update time: 6:17:25 PM 27-09-2026
 
 #EXTINF:-1 group-title="Live Sports" tvg-id="85157" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="LIVE", ATP Chengdu - ATP Chengdu
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790492246-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-956b3bf630547e0e28aeeccf29e9ac4b
-
-#EXTINF:-1 group-title="Live Sports" tvg-id="85158" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%206%20Hours%20of%20Fuji.jpg" group-title="LIVE", Race: 6 Hours of Fuji - WEC
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790492248-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fba4e834ba7c0c420cbb5ad7d77efb9b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510512/720p/chunks.m3u8?is_vip=false&token=1790498564-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-289460a8eda692052a150c42e2dcf9d4
 
 #EXTINF:-1 group-title="Live Sports" tvg-id="85159" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg" group-title="LIVE", ATP Hangzhou - ATP Hangzhou
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510511/720p/chunks.m3u8?is_vip=false&token=1790492251-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2173a1a55be7de5632bf4bc2a17ae4d3
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510515/720p/chunks.m3u8?is_vip=false&token=1790497654-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4a5ea4190b5baad12dfaf39a7290f50f
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="71686" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fiji%20vs%20Papua%20New%20Guinea.jpg" group-title="LIVE", Fiji vs Papua New Guinea - Friendlies
+#EXTINF:-1 group-title="Live Sports" tvg-id="70051" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20South%20Africa.jpg" group-title="LIVE", Australia vs South Africa - Men's International
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa4d57e6a3a959c399a8a82/chunks.m3u8?is_vip=false&token=1790492254-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-72114c4cd8485dec3eb7c02c6da99b9c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790498638-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7a752794e7ce4e8b181c138fbca608eb
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="70015" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India%20vs%20West%20Indies.jpg" group-title="LIVE", India vs West Indies - 1st ODI
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790498626-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-60951da20b7f36618a134fe511e6212c
 
 
 
