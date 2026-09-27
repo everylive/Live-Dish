@@ -48,23 +48,77 @@ https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:17:25 PM 27-09-2026
+#last update time: 10:32:26 PM 27-09-2026
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="85157" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="LIVE", ATP Chengdu - ATP Chengdu
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510512/720p/chunks.m3u8?is_vip=false&token=1790498564-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-289460a8eda692052a150c42e2dcf9d4
+#EXTINF:-1 group-title="Live Sports" tvg-id="67460" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Netherlands.jpg" group-title="LIVE", Serbia vs Netherlands - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fb-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=00d456a60380136889dafcf205ddda8e&x-time=1790526720
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="85159" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg" group-title="LIVE", ATP Hangzhou - ATP Hangzhou
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510515/720p/chunks.m3u8?is_vip=false&token=1790497654-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4a5ea4190b5baad12dfaf39a7290f50f
+#EXTINF:-1 group-title="Live Sports" tvg-id="67460" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Netherlands.jpg" group-title="LIVE", Serbia vs Netherlands - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fb/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=42cf066013640d682327983f12f56dc8&x-time=1790526720
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="70051" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20South%20Africa.jpg" group-title="LIVE", Australia vs South Africa - Men's International
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790498638-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7a752794e7ce4e8b181c138fbca608eb
+#EXTINF:-1 group-title="Live Sports" tvg-id="67461" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denmark%20vs%20Wales.jpg" group-title="LIVE", Denmark vs Wales - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fe-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=5df438f87b02066f3ad08881e36deb8c&x-time=1790526720
 
-#EXTINF:-1 group-title="Live Sports" tvg-id="70015" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India%20vs%20West%20Indies.jpg" group-title="LIVE", India vs West Indies - 1st ODI
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790498626-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-60951da20b7f36618a134fe511e6212c
+#EXTINF:-1 group-title="Live Sports" tvg-id="67461" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denmark%20vs%20Wales.jpg" group-title="LIVE", Denmark vs Wales - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fe/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=8decfa411ddfd8b9bcefe04a64cb6a98&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67462" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Kosovo.jpg" group-title="LIVE", Austria vs Kosovo - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fd-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=e97c70356ed8ea5aba9840978a099d29&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67462" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Kosovo.jpg" group-title="LIVE", Austria vs Kosovo - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=f5503daa57bdbfdfb22fb460e84b1299&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67464" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Andorra.jpg" group-title="LIVE", Gibraltar vs Andorra - UEFA Nations League [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fc-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=886290f1666806e48ebea7140f7e3bee&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67464" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Andorra.jpg" group-title="LIVE", Gibraltar vs Andorra - UEFA Nations League [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fc/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=638cb7fb6e031e34d34990e5c0a0d9aa&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="70046" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men's%20Elite%20RR.jpg" group-title="LIVE", Men's Elite RR - Cycling World Championships
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-iptv.rumsport10.live/live_abr/1410/720p/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=bcec8aac1c4a03b94def4e6800408964&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67454" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Arsenal%20W.jpg" group-title="LIVE", Chelsea W vs Arsenal W - FA WSL [Server 1]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d-fancode/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=c1724e2310e6f444aeb45c7451597d53&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67454" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Arsenal%20W.jpg" group-title="LIVE", Chelsea W vs Arsenal W - FA WSL [Server 2]
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=1bdeed90c74a5207c0c62077216b4ca4&x-time=1790526720
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67466" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Burgos%20vs%20Eldense.jpg" group-title="LIVE", Burgos vs Eldense - Segunda División
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73c/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=c293e5df810824467bf5902162e0eba3&x-time=1790526780
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67467" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eibar%20vs%20Las%20Palmas.jpg" group-title="LIVE", Eibar vs Las Palmas - Segunda División
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba739/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=70150aeb5fde3dac0f40895b70ccdb5f&x-time=1790526780
+
+#EXTINF:-1 group-title="Live Sports" tvg-id="67468" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malta%20vs%20Liechtenstein.jpg" group-title="LIVE", Malta vs Liechtenstein - Friendlies
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab41ab5887f46718977b4f7/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=61d5d7eea69d7d8f2155f0850c379f38&x-time=1790526780
 
 
 
